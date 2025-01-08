@@ -43,4 +43,6 @@ Here are the details regarding the subtask we discussed during our call.
 > Hem  
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 >   
-
+### **Solution:**   
+File name: Week1_Soln  
+Tool: MS Excel, Advanced Excel  
