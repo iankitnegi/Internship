@@ -1,0 +1,71 @@
+Response_ID,Respondent_ID,Current_brands,Taste_experience,Price_range,Purchase_location
+103001,120031,blue bull,Five,50-99,Supermarkets
+103002,120032,Bepsi,Five,50-99,Supermarkets
+103003,120033,bepsi,Two,100-150,Supermarkets
+103004,120034,Bepsi,Five,Above 150,Supermarkets
+103005,120035,sky 9,5,100-150,Online retailers
+103006,120036,Cola-Coka,Five,Above 150,Gyms and fitness centers
+103007,120037,cola-coka,Four,100-150,Other
+103008,120038,Gangster,4,50-99,Gyms and fitness centers
+103009,120039,gangster,3,100-150,Other
+103010,120040,Sky 9,4,50-99,Gyms and fitness centers
+103011,120041,codex,5,50-99,Supermarkets
+103012,120042,others,2,100-150,Online retailers
+103013,120043,gangster,Four,50-99,Gyms and fitness centers
+103014,120044,others,5,50-99,Online retailers
+103015,120045,bepsi,5,Above 150,Supermarkets
+103016,120046,Bepsi,Three,Above 150,Supermarkets
+103017,120047,codex,Four,50-99,Supermarkets
+103018,120048,Sky 9,One,100-150,Online retailers
+103019,120049,bepsi,4,50-99,Local stores
+103020,120050,others,Two,50-99,Other
+103021,120051,Gangster,Three,50-99,Online retailers
+103022,120052,Gangster,Four,50-99,Supermarkets
+103023,120053,cola-coka,Three,50-99,Online retailers
+103024,120054,bepsi,1,100-150,Online retailers
+103025,120055,cola-coka,3,Above 150,Gyms and fitness centers
+103026,120056,cola-coka,1,50-99,Gyms and fitness centers
+103027,120057,Gangster,Two,50-99,Online retailers
+103028,120058,Sky 9,5,100-150,Supermarkets
+103029,120059,others,Three,Below 50,Other
+103030,120060,Gangster,4,50-99,Online retailers
+103031,120061,gangster,1,Above 150,Gyms and fitness centers
+103032,120062,Cola-Coka,Four,Below 50,Supermarkets
+103033,120063,CodeX,3,50-99,Supermarkets
+103034,120064,gangster,Four,Above 150,Supermarkets
+103035,120065,CodeX,2,50-99,Supermarkets
+103036,120066,CodeX,2,100-150,Supermarkets
+103037,120067,Cola-Coka,3,50-99,Online retailers
+103038,120068,Blue Bull,One,100-150,Supermarkets
+103039,120069,Bepsi,2,50-99,Supermarkets
+103040,120070,CodeX,5,100-150,Gyms and fitness centers
+103041,120071,bepsi,3,100-150,Supermarkets
+103042,120072,Sky 9,4,Above 150,Supermarkets
+103043,120073,Blue Bull,One,50-99,Online retailers
+103044,120074,Cola-Coka,4,50-99,Gyms and fitness centers
+103045,120075,bepsi,2,50-99,Supermarkets
+103046,120076,Gangster,4,50-99,Supermarkets
+103047,120077,Cola-Coka,4,50-99,Supermarkets
+103048,120078,others,Three,100-150,Supermarkets
+103049,120079,bepsi,Four,50-99,Supermarkets
+103050,120080,Bepsi,Five,50-99,Gyms and fitness centers
+103051,120081,Sky 9,Three,Above 150,Online retailers
+103052,120082,bepsi,3,100-150,Supermarkets
+103053,120083,Cola-Coka,Two,100-150,Other
+103054,120084,bepsi,2,50-99,Online retailers
+103055,120085,Sky 9,5,Above 150,Supermarkets
+103056,120086,Cola-Coka,One,50-99,Supermarkets
+103057,120087,bepsi,One,50-99,Gyms and fitness centers
+103058,120088,cola-coka,3,100-150,Supermarkets
+103059,120089,Bepsi,4,50-99,Supermarkets
+103060,120090,Cola-Coka,4,50-99,Supermarkets
+103061,120091,blue bull,Four,100-150,Gyms and fitness centers
+103062,120092,bepsi,4,100-150,Supermarkets
+103063,120093,Bepsi,4,50-99,Supermarkets
+103064,120094,Blue Bull,2,50-99,Gyms and fitness centers
+103065,120095,cola-coka,Four,50-99,Supermarkets
+103066,120096,Cola-Coka,3,50-99,Gyms and fitness centers
+103067,120097,gangster,2,Below 50,Online retailers
+103068,120098,Blue Bull,4,100-150,Other
+103069,120099,Blue Bull,Four,Below 50,Supermarkets
+103070,120100,Gangster,2,50-99,Gyms and fitness centers
