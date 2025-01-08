@@ -46,3 +46,23 @@ Here are the details regarding the subtask we discussed during our call.
 ### **Solution:**   
 File name: Week1_Soln  
 Tool: MS Excel, Advanced Excel  
+
+> ### E-Mail #2:  
+> **PYTHON AUTOMATION TASK**  
+> Hi Ankit Negi,
+> 
+> I hope you're doing well.  
+Following up on our discussion, I’d like you to work on automating the process of consolidating our monthly revenue reports into a MySQL database.  
+>
+> Here’s what you need to do:  
+> Access the Monthly Files: Download the Excel files from the "Download files" section.  
+> - Write Python Script: Create a Python script to read the Excel files and import the data into a MySQL database.
+> - Database Structure: Ensure that the database table is structured to accommodate all relevant data fields.
+> - After setting up the script, test it with a few files to make sure the data is imported correctly.
+>
+> If you face any issues or need clarification, feel free to reach out. Looking forward to your progress!
+>
+> Best regards,  
+> Hem  
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+>   
