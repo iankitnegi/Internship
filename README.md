@@ -66,3 +66,6 @@ Following up on our discussion, I’d like you to work on automating the process
 > Hem  
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 >   
+### **Solution:**   
+File name: Week1_Soln  
+Tool: MS Excel, Advanced Excel  
