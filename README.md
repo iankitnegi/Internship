@@ -69,3 +69,24 @@ Following up on our discussion, I’d like you to work on automating the process
 ### **Solution:**   
 File name: PythonScript, MySQL_Soln  
 Tool: MySQL, Python - Jupyter 
+
+> ### E-Mail #3:  
+> **KANBAN METHODOLOGY TRAINING**  
+> Hi Ankit Negi,
+> 
+> As part of your internship, we will be covering the Kanban methodology in software development. Kanban is an essential agile framework that focuses on visualizing work, limiting work-in-progress, and optimizing task flow to enhance productivity. 
+>
+> Your action items:  
+> To get started, you will need to:  
+> 1. Complete the Kanban Training Series: Access the course here.
+> 2. Understand Kanban’s Core Principles: The course covers key concepts like visualizing work, limiting work-in-progress, and optimizing workflows.
+> 3. Finish the Training: Completing the training is mandatory for your internship, so make sure to go through all the modules and complete the exercises.
+>
+> Once you’ve finished, you’ll have a solid understanding of Kanban and its application in real-world scenarios.
+>
+> Good luck with your training! Feel free to reach out if you need any assistance along the way.
+>
+> Best regards,  
+> Hem  
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+>   
