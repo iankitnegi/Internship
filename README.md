@@ -91,4 +91,36 @@ Tool: MySQL, Python - Jupyter
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 >
 
-![image](https://github.com/user-attachments/assets/93df924c-9f7a-407d-a5a5-ba8c4e900c3e)
+![image](https://github.com/user-attachments/assets/93df924c-9f7a-407d-a5a5-ba8c4e900c3e)  
+
+## WEEK 2:  
+> ### E-Mail #1:  
+> **POWER BI TASK**  
+Hi Ankit Negi,  
+I hope you are doing well. As discussed in our call, the client wants to have a report which shows the insights on the quality check. They want to track:  
+> - The number of parts submitted for inspection over time.  
+> - The count of Accepted and Rejected parts for each category.  
+> - Daily trends in submissions and inspection outcomes.  
+> 
+> Download the fact_rhonda_manufacturing.csv and create a dashboard in Power BI in which you have the following -
+>
+> 1. KPIs:
+> - How many bonet, front bumper, rear bumper and hoods were submitted for inspection?
+> - How many bonet, front bumper, rear bumper and hoods were Accepted?
+> - How many bonet, front bumper, rear bumper and hoods were Rejected?
+> 2. Parameterized Line Chart:
+> - Create a line chart with a parameter that allows the user to toggle between bonet, front bumper, rear bumper and hoods.
+> - Show the trend of submissions, Accepted, and Rejected over time.
+> 3. Calendar Visual:
+> - Design a calendar view to display daily counts of:
+>   - Total submissions.
+>   - Accepted parts.
+>   - Rejected parts.
+> - Use colour coding to differentiate between Accepted and Rejected counts.
+Feel free to ask your seniors for any questions!
+>
+> Good luck with this task!
+> 
+> Best regards,    
+> Hem  
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.    
