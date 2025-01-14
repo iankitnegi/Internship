@@ -89,4 +89,6 @@ Tool: MySQL, Python - Jupyter
 > Best regards,  
 > Hem  
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
->   
+>
+
+![image](https://github.com/user-attachments/assets/93df924c-9f7a-407d-a5a5-ba8c4e900c3e)
