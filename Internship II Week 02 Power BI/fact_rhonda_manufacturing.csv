@@ -1,0 +1,786 @@
+Car ID,Date,Bonnet ID,Bonnet Status,Hood ID,Hood Status,Front Bumper ID,Front Bumper Status,Rear Bumper ID,Rear Bumper Status,Overall Status,Defect Type,Production Line ID
+A68339,19-11-2024,B78370,Approved,H11084,Approved,FB16455,Rejected,RB82055,Approved,Rejected,Dents,4
+A43762,29-09-2024,B82352,Approved,H69624,Approved,FB68961,Rejected,RB40102,Approved,Rejected,Scratches,1
+A39538,05-09-2024,B65532,Approved,H96024,Approved,FB24091,Rejected,RB89176,Approved,Rejected,Misalignment,3
+A81090,18-07-2024,B75582,Approved,H85181,Approved,FB61868,Approved,RB19252,Approved,Accepted,,1
+A84582,21-11-2024,B80222,Rejected,H62678,Approved,FB89541,Approved,RB40088,Approved,Rejected,Structural Failure,2
+A24020,08-08-2024,B82544,Approved,H47484,Approved,FB42732,Approved,RB93607,Approved,Accepted,,4
+A45849,06-07-2024,B65962,Approved,H21105,Rejected,FB64826,Rejected,RB51177,Rejected,Rejected,Scratches,5
+A89052,17-08-2024,B49437,Rejected,H82240,Approved,FB35631,Approved,RB71722,Approved,Rejected,Dents,3
+A97235,18-07-2024,B92425,Approved,H11029,Approved,FB60615,Approved,RB64403,Approved,Accepted,,5
+A72171,26-08-2024,B45367,Approved,H33908,Approved,FB95991,Rejected,RB29232,Rejected,Rejected,Structural Failure,2
+A44724,18-09-2024,B43317,Approved,H29144,Rejected,FB63211,Approved,RB85159,Approved,Rejected,Scratches,2
+A92053,11-10-2024,B66641,Rejected,H20058,Rejected,FB40625,Rejected,RB17299,Rejected,Rejected,Incorrect Paint Job,4
+A15671,07-10-2024,B47202,Rejected,H87175,Rejected,FB40221,Approved,RB87358,Rejected,Rejected,Weld Marks,5
+A54211,27-07-2024,B94838,Approved,H31520,Approved,FB39559,Approved,RB87391,Approved,Accepted,,2
+A35239,24-07-2024,B77064,Approved,H34712,Rejected,FB27022,Rejected,RB23545,Approved,Rejected,Incorrect Paint Job,1
+A23460,28-07-2024,B90541,Rejected,H49317,Rejected,FB91568,Rejected,RB59269,Approved,Rejected,Scratches,4
+A80066,13-11-2024,B46522,Rejected,H39842,Rejected,FB81241,Approved,RB21710,Rejected,Rejected,Structural Failure,4
+A78421,01-10-2024,B13824,Rejected,H32580,Rejected,FB21651,Approved,RB17587,Rejected,Rejected,Scratches,4
+A42027,28-07-2024,B86950,Approved,H40549,Approved,FB19167,Rejected,RB39016,Rejected,Rejected,Structural Failure,2
+A38717,02-08-2024,B47417,Approved,H14269,Rejected,FB66253,Rejected,RB61833,Rejected,Rejected,Scratches,3
+A76190,17-12-2024,B11516,Approved,H26364,Rejected,FB93749,Approved,RB43608,Approved,Rejected,Dents,3
+A63745,02-08-2024,B76502,Approved,H60931,Rejected,FB20207,Rejected,RB56428,Rejected,Rejected,Dust Particles in Paint,4
+A29948,12-12-2024,B73127,Approved,H98222,Approved,FB93567,Rejected,RB31955,Rejected,Rejected,Dents,3
+A79851,20-11-2024,B99813,Rejected,H53528,Approved,FB18180,Approved,RB95375,Approved,Rejected,Scratches,2
+A77208,07-11-2024,B34749,Approved,H41935,Approved,FB45417,Approved,RB19538,Approved,Accepted,,1
+A66835,22-11-2024,B62521,Rejected,H37835,Approved,FB37976,Rejected,RB98672,Approved,Rejected,Weld Marks,5
+A21607,29-08-2024,B10977,Approved,H29364,Approved,FB76042,Rejected,RB23325,Approved,Rejected,Structural Failure,5
+A49300,29-07-2024,B25091,Approved,H65219,Approved,FB12727,Approved,RB24653,Rejected,Rejected,Dust Particles in Paint,3
+A68278,12-12-2024,B89397,Approved,H62277,Approved,FB54270,Approved,RB48576,Approved,Accepted,,5
+A18815,15-11-2024,B35198,Approved,H60439,Rejected,FB90542,Approved,RB74503,Approved,Rejected,Misalignment,4
+A90638,06-10-2024,B77926,Approved,H28359,Rejected,FB81960,Rejected,RB11218,Rejected,Rejected,Dust Particles in Paint,2
+A24153,13-09-2024,B30815,Rejected,H11586,Approved,FB64422,Approved,RB85626,Rejected,Rejected,Scratches,1
+A85028,24-09-2024,B94428,Approved,H44396,Approved,FB52156,Approved,RB37456,Approved,Accepted,,2
+A98003,16-08-2024,B69600,Rejected,H44819,Rejected,FB31076,Rejected,RB26437,Approved,Rejected,Weld Marks,4
+A87524,28-08-2024,B91326,Approved,H61041,Approved,FB75932,Approved,RB24346,Rejected,Rejected,Scratches,2
+A85938,04-10-2024,B15422,Rejected,H26822,Approved,FB21535,Rejected,RB47734,Rejected,Rejected,Structural Failure,1
+A97079,08-11-2024,B23324,Approved,H72223,Approved,FB97526,Approved,RB11871,Approved,Accepted,,1
+A86046,25-10-2024,B97428,Approved,H41672,Rejected,FB87229,Approved,RB97220,Approved,Rejected,Incorrect Paint Job,4
+A94354,17-12-2024,B58037,Approved,H84637,Approved,FB35658,Approved,RB54073,Approved,Accepted,,1
+A77459,01-11-2024,B91683,Approved,H18076,Approved,FB62330,Approved,RB71086,Rejected,Rejected,Misalignment,3
+A16633,02-07-2024,B30840,Rejected,H33928,Rejected,FB33444,Approved,RB58715,Approved,Rejected,Dents,3
+A91100,26-09-2024,B60808,Rejected,H94827,Rejected,FB52758,Approved,RB27738,Approved,Rejected,Incorrect Paint Job,4
+A28619,19-10-2024,B55542,Rejected,H32455,Rejected,FB64877,Rejected,RB80082,Rejected,Rejected,Misalignment,3
+A76865,07-08-2024,B43278,Approved,H17066,Approved,FB93227,Rejected,RB40615,Approved,Rejected,Weld Marks,1
+A71606,18-07-2024,B39442,Rejected,H23122,Approved,FB37989,Rejected,RB75213,Rejected,Rejected,Dents,1
+A14370,22-07-2024,B52722,Approved,H86686,Approved,FB49613,Approved,RB46857,Rejected,Rejected,Incorrect Paint Job,4
+A75455,28-08-2024,B22253,Rejected,H71484,Approved,FB94502,Rejected,RB23171,Rejected,Rejected,Scratches,1
+A14895,17-10-2024,B85115,Rejected,H81926,Rejected,FB55781,Rejected,RB29059,Approved,Rejected,Scratches,3
+A74376,01-09-2024,B63980,Approved,H55200,Approved,FB96842,Approved,RB25439,Approved,Accepted,,3
+A95403,06-11-2024,B37039,Approved,H25594,Approved,FB70202,Approved,RB50934,Rejected,Rejected,Structural Failure,2
+A81836,24-12-2024,B77314,Approved,H74857,Approved,FB18846,Approved,RB47513,Approved,Accepted,,4
+A49026,06-08-2024,B37291,Approved,H37123,Approved,FB23386,Approved,RB56833,Approved,Accepted,,2
+A95993,14-07-2024,B74455,Approved,H52580,Rejected,FB89180,Rejected,RB52231,Approved,Rejected,Misalignment,2
+A64109,07-07-2024,B53602,Approved,H10796,Rejected,FB65164,Approved,RB81902,Rejected,Rejected,Dents,2
+A19925,09-11-2024,B65380,Rejected,H33373,Approved,FB43476,Rejected,RB91157,Rejected,Rejected,Scratches,3
+A15691,25-08-2024,B34569,Approved,H47979,Approved,FB59773,Approved,RB49416,Approved,Accepted,,5
+A44360,07-11-2024,B98162,Rejected,H55442,Rejected,FB82696,Rejected,RB82463,Rejected,Rejected,Scratches,2
+A87483,02-09-2024,B11050,Approved,H78896,Approved,FB57905,Approved,RB41049,Approved,Accepted,,1
+A42082,20-10-2024,B29865,Rejected,H28074,Rejected,FB27682,Approved,RB53152,Rejected,Rejected,Misalignment,4
+A83187,15-12-2024,B84661,Approved,H22178,Rejected,FB85679,Approved,RB59702,Approved,Rejected,Dents,5
+A57188,15-07-2024,B69180,Rejected,H79847,Approved,FB15054,Rejected,RB55112,Rejected,Rejected,Scratches,5
+A29852,27-08-2024,B67046,Rejected,H66113,Approved,FB30538,Rejected,RB35667,Approved,Rejected,Misalignment,3
+A50932,18-09-2024,B66667,Rejected,H36100,Approved,FB59375,Approved,RB44857,Approved,Rejected,Structural Failure,3
+A94884,16-09-2024,B16337,Approved,H83116,Rejected,FB64855,Approved,RB60318,Approved,Rejected,Weld Marks,5
+A49696,08-12-2024,B83509,Approved,H59870,Approved,FB44420,Approved,RB75556,Rejected,Rejected,Weld Marks,5
+A51466,14-08-2024,B63778,Approved,H91746,Approved,FB78239,Approved,RB31786,Approved,Accepted,,4
+A13203,14-12-2024,B72918,Approved,H83541,Approved,FB12735,Approved,RB98644,Approved,Accepted,,2
+A55816,30-12-2024,B12772,Approved,H37156,Approved,FB59455,Approved,RB44925,Approved,Accepted,,3
+A29750,23-11-2024,B66044,Approved,H26765,Approved,FB38317,Approved,RB86190,Rejected,Rejected,Weld Marks,4
+A38204,06-12-2024,B24086,Approved,H13620,Approved,FB39613,Approved,RB24132,Approved,Accepted,,1
+A26815,02-09-2024,B69088,Approved,H23782,Approved,FB50689,Approved,RB22199,Approved,Accepted,,5
+A68014,22-10-2024,B50982,Approved,H49283,Approved,FB42496,Approved,RB39988,Approved,Accepted,,2
+A50019,23-10-2024,B13768,Approved,H67747,Rejected,FB75697,Approved,RB60858,Approved,Rejected,Scratches,3
+A30440,30-09-2024,B21202,Rejected,H11248,Approved,FB47752,Approved,RB87699,Approved,Rejected,Misalignment,1
+A55273,13-07-2024,B81478,Approved,H85767,Rejected,FB45767,Approved,RB82295,Approved,Rejected,Dust Particles in Paint,3
+A78025,13-10-2024,B86897,Approved,H40613,Rejected,FB15747,Approved,RB73638,Approved,Rejected,Structural Failure,1
+A63788,21-08-2024,B24047,Rejected,H59846,Approved,FB76462,Rejected,RB89488,Rejected,Rejected,Misalignment,1
+A79044,01-07-2024,B67673,Approved,H61399,Approved,FB52926,Rejected,RB43586,Rejected,Rejected,Misalignment,5
+A62623,02-08-2024,B30473,Approved,H85971,Approved,FB90479,Approved,RB61725,Approved,Accepted,,3
+A52691,05-12-2024,B54738,Approved,H87546,Rejected,FB95441,Rejected,RB58650,Rejected,Rejected,Scratches,2
+A94583,04-10-2024,B48069,Rejected,H85766,Rejected,FB25677,Approved,RB27568,Rejected,Rejected,Structural Failure,1
+A53431,03-10-2024,B49918,Rejected,H89108,Rejected,FB94911,Approved,RB23862,Approved,Rejected,Scratches,1
+A38128,09-08-2024,B71411,Rejected,H22184,Approved,FB16618,Rejected,RB83175,Approved,Rejected,Scratches,5
+A28931,16-09-2024,B13285,Approved,H84186,Approved,FB76075,Rejected,RB54568,Rejected,Rejected,Structural Failure,2
+A70890,10-07-2024,B67954,Approved,H58185,Approved,FB75075,Approved,RB53261,Approved,Accepted,,4
+A43155,14-09-2024,B82229,Rejected,H37226,Approved,FB23613,Approved,RB69488,Approved,Rejected,Dents,1
+A19613,10-09-2024,B52809,Approved,H13263,Rejected,FB69200,Approved,RB78415,Rejected,Rejected,Incorrect Paint Job,3
+A68621,30-09-2024,B42072,Approved,H19312,Approved,FB22981,Approved,RB29066,Approved,Accepted,,5
+A66127,21-12-2024,B37530,Approved,H81633,Approved,FB34754,Approved,RB16311,Rejected,Rejected,Structural Failure,3
+A98958,12-07-2024,B11864,Approved,H28437,Approved,FB61219,Rejected,RB92638,Rejected,Rejected,Scratches,3
+A86403,05-11-2024,B91686,Rejected,H70047,Rejected,FB67055,Approved,RB52391,Approved,Rejected,Scratches,2
+A11426,24-10-2024,B62261,Rejected,H97022,Approved,FB73929,Rejected,RB65902,Rejected,Rejected,Dust Particles in Paint,4
+A94525,31-12-2024,B26458,Approved,H29292,Approved,FB43403,Approved,RB91687,Approved,Accepted,,2
+A20743,31-07-2024,B66794,Approved,H97728,Approved,FB40260,Approved,RB10186,Approved,Accepted,,1
+A60329,03-08-2024,B36624,Rejected,H31443,Approved,FB19876,Rejected,RB52700,Approved,Rejected,Misalignment,3
+A32728,25-10-2024,B88079,Approved,H80864,Approved,FB68837,Approved,RB20823,Approved,Accepted,,5
+A47709,25-10-2024,B15165,Rejected,H48439,Rejected,FB32945,Approved,RB74966,Approved,Rejected,Scratches,4
+A16932,16-12-2024,B33628,Rejected,H70568,Approved,FB35026,Approved,RB92743,Approved,Rejected,Weld Marks,5
+A31408,26-10-2024,B47444,Rejected,H62416,Approved,FB42391,Rejected,RB79878,Rejected,Rejected,Misalignment,3
+A62087,23-08-2024,B12680,Approved,H20732,Rejected,FB47402,Approved,RB99415,Approved,Rejected,Dust Particles in Paint,5
+A28695,09-11-2024,B42911,Approved,H21520,Rejected,FB87039,Approved,RB98428,Approved,Rejected,Dust Particles in Paint,1
+A42922,26-09-2024,B20937,Rejected,H74774,Approved,FB83714,Rejected,RB33565,Approved,Rejected,Incorrect Paint Job,4
+A52210,03-11-2024,B40413,Approved,H96493,Rejected,FB39429,Rejected,RB36629,Approved,Rejected,Dents,4
+A19927,06-11-2024,B52383,Approved,H49698,Approved,FB29559,Rejected,RB71721,Approved,Rejected,Structural Failure,1
+A90266,13-10-2024,B50275,Approved,H45687,Rejected,FB22117,Approved,RB18312,Rejected,Rejected,Scratches,4
+A64659,17-12-2024,B42320,Approved,H55435,Rejected,FB65270,Approved,RB17611,Approved,Rejected,Weld Marks,1
+A50891,16-12-2024,B85267,Rejected,H85368,Approved,FB77979,Approved,RB26116,Approved,Rejected,Scratches,5
+A51164,24-08-2024,B58245,Approved,H49149,Rejected,FB77132,Approved,RB13743,Approved,Rejected,Dents,2
+A90772,12-07-2024,B77638,Approved,H58639,Approved,FB13695,Rejected,RB14517,Approved,Rejected,Scratches,5
+A93142,30-12-2024,B33137,Rejected,H13862,Approved,FB98461,Approved,RB70289,Rejected,Rejected,Structural Failure,2
+A26696,25-12-2024,B79780,Approved,H69528,Approved,FB59200,Approved,RB14051,Approved,Accepted,,3
+A84389,08-11-2024,B68396,Approved,H12694,Approved,FB53202,Rejected,RB26273,Rejected,Rejected,Misalignment,1
+A48691,06-12-2024,B26361,Approved,H65621,Approved,FB34577,Rejected,RB62934,Approved,Rejected,Structural Failure,1
+A92825,05-07-2024,B65973,Rejected,H41183,Rejected,FB31471,Rejected,RB75521,Approved,Rejected,Scratches,5
+A63858,10-10-2024,B62845,Rejected,H81131,Rejected,FB73927,Approved,RB58472,Approved,Rejected,Dents,3
+A90179,27-07-2024,B12983,Rejected,H32478,Approved,FB67410,Approved,RB14477,Approved,Rejected,Incorrect Paint Job,4
+A63514,25-11-2024,B80806,Approved,H70568,Approved,FB89688,Approved,RB28847,Rejected,Rejected,Dents,2
+A53192,13-08-2024,B75230,Approved,H24615,Rejected,FB54866,Rejected,RB42449,Approved,Rejected,Incorrect Paint Job,2
+A44017,07-11-2024,B83600,Approved,H39947,Approved,FB98534,Approved,RB85666,Rejected,Rejected,Structural Failure,3
+A23698,01-11-2024,B40303,Rejected,H74556,Rejected,FB84535,Rejected,RB75023,Approved,Rejected,Dents,3
+A95732,27-10-2024,B51362,Rejected,H95579,Approved,FB28027,Approved,RB90070,Approved,Rejected,Incorrect Paint Job,3
+A93818,18-10-2024,B25554,Rejected,H94460,Rejected,FB16675,Rejected,RB52254,Approved,Rejected,Dust Particles in Paint,3
+A88727,18-12-2024,B27994,Approved,H83055,Approved,FB79137,Approved,RB41039,Rejected,Rejected,Scratches,1
+A56209,08-10-2024,B43786,Rejected,H65625,Approved,FB51037,Rejected,RB65918,Rejected,Rejected,Scratches,3
+A95847,21-11-2024,B62509,Approved,H71933,Approved,FB93389,Rejected,RB44958,Rejected,Rejected,Dents,3
+A61950,09-10-2024,B58236,Rejected,H98627,Approved,FB31737,Rejected,RB37216,Approved,Rejected,Structural Failure,4
+A40489,09-09-2024,B24124,Rejected,H82648,Approved,FB96623,Approved,RB37928,Approved,Rejected,Structural Failure,4
+A87292,17-12-2024,B53012,Approved,H88562,Approved,FB64198,Approved,RB64229,Approved,Accepted,,5
+A11873,21-10-2024,B95963,Approved,H22941,Rejected,FB20650,Approved,RB77680,Approved,Rejected,Dust Particles in Paint,1
+A85689,18-07-2024,B40111,Rejected,H61905,Approved,FB87773,Approved,RB21987,Approved,Rejected,Structural Failure,1
+A89248,25-07-2024,B80217,Rejected,H20582,Approved,FB73828,Rejected,RB67610,Approved,Rejected,Scratches,4
+A29524,04-09-2024,B67290,Approved,H97880,Approved,FB85890,Approved,RB59652,Rejected,Rejected,Dents,1
+A95832,29-07-2024,B26478,Approved,H95378,Rejected,FB57694,Rejected,RB78418,Approved,Rejected,Weld Marks,5
+A29941,29-11-2024,B28361,Rejected,H38110,Approved,FB18683,Rejected,RB11163,Approved,Rejected,Weld Marks,2
+A54363,04-11-2024,B96665,Approved,H25003,Approved,FB19075,Rejected,RB62434,Approved,Rejected,Scratches,5
+A59641,29-09-2024,B19317,Rejected,H40255,Approved,FB52556,Approved,RB37901,Rejected,Rejected,Misalignment,2
+A31062,13-12-2024,B60421,Approved,H29916,Approved,FB85611,Approved,RB20724,Approved,Accepted,,1
+A36587,14-10-2024,B26879,Rejected,H60370,Approved,FB32974,Approved,RB63833,Approved,Rejected,Structural Failure,4
+A18107,24-09-2024,B91288,Rejected,H89539,Approved,FB81706,Rejected,RB93949,Approved,Rejected,Incorrect Paint Job,2
+A19967,19-08-2024,B89686,Approved,H17164,Approved,FB34687,Approved,RB47334,Approved,Accepted,,4
+A19424,29-10-2024,B87768,Approved,H39426,Approved,FB14462,Approved,RB55625,Approved,Accepted,,4
+A41135,16-10-2024,B84394,Rejected,H44388,Approved,FB71657,Rejected,RB94640,Approved,Rejected,Dust Particles in Paint,4
+A28553,11-07-2024,B53693,Approved,H42219,Rejected,FB50325,Rejected,RB96176,Approved,Rejected,Weld Marks,5
+A41391,15-09-2024,B81388,Approved,H16120,Approved,FB57548,Approved,RB37661,Rejected,Rejected,Misalignment,4
+A41029,07-11-2024,B62895,Rejected,H54157,Approved,FB21208,Rejected,RB27435,Approved,Rejected,Structural Failure,2
+A24727,30-07-2024,B46110,Rejected,H34499,Approved,FB45908,Approved,RB35501,Approved,Rejected,Weld Marks,5
+A14299,01-09-2024,B37150,Approved,H77013,Approved,FB73581,Rejected,RB78270,Approved,Rejected,Weld Marks,1
+A94625,27-07-2024,B22902,Approved,H90188,Approved,FB56830,Rejected,RB12502,Approved,Rejected,Misalignment,3
+A77664,25-10-2024,B59950,Rejected,H59621,Approved,FB90011,Approved,RB60217,Rejected,Rejected,Dents,1
+A35826,07-07-2024,B30701,Rejected,H49385,Approved,FB87376,Rejected,RB43698,Approved,Rejected,Weld Marks,4
+A99690,12-12-2024,B96205,Approved,H82502,Approved,FB67949,Approved,RB65899,Rejected,Rejected,Dust Particles in Paint,4
+A49816,22-07-2024,B86813,Rejected,H84239,Approved,FB65678,Rejected,RB78989,Approved,Rejected,Scratches,4
+A13532,10-09-2024,B14500,Approved,H95918,Approved,FB19914,Approved,RB55662,Approved,Accepted,,1
+A15134,14-11-2024,B60804,Approved,H47527,Rejected,FB25418,Approved,RB91484,Approved,Rejected,Misalignment,3
+A37223,07-12-2024,B84084,Rejected,H48564,Approved,FB15612,Approved,RB39084,Approved,Rejected,Dents,5
+A86883,12-08-2024,B58198,Rejected,H28082,Approved,FB30951,Rejected,RB96441,Rejected,Rejected,Dents,3
+A67466,13-11-2024,B99829,Rejected,H45054,Approved,FB42168,Rejected,RB27594,Approved,Rejected,Structural Failure,2
+A12886,03-10-2024,B41306,Approved,H82007,Approved,FB81372,Rejected,RB97141,Rejected,Rejected,Scratches,2
+A75062,14-12-2024,B65282,Approved,H97273,Approved,FB95892,Approved,RB61427,Rejected,Rejected,Scratches,3
+A57195,18-10-2024,B84744,Rejected,H60829,Rejected,FB67766,Approved,RB11158,Approved,Rejected,Scratches,2
+A44337,05-07-2024,B40328,Approved,H14418,Rejected,FB30936,Rejected,RB80513,Approved,Rejected,Misalignment,4
+A50592,18-12-2024,B76869,Approved,H19205,Approved,FB82368,Approved,RB54278,Approved,Accepted,,1
+A34658,03-09-2024,B12762,Approved,H10870,Approved,FB84729,Rejected,RB72230,Approved,Rejected,Dents,4
+A28786,27-08-2024,B30717,Rejected,H67152,Rejected,FB57476,Approved,RB24255,Approved,Rejected,Incorrect Paint Job,5
+A49739,22-09-2024,B79016,Approved,H97714,Approved,FB20047,Approved,RB25342,Approved,Accepted,,5
+A79008,19-10-2024,B51009,Approved,H23027,Rejected,FB79158,Approved,RB93101,Rejected,Rejected,Misalignment,1
+A94660,03-09-2024,B63979,Rejected,H35371,Rejected,FB37170,Rejected,RB65573,Rejected,Rejected,Structural Failure,2
+A57558,02-08-2024,B17234,Approved,H86957,Approved,FB83635,Approved,RB93126,Rejected,Rejected,Dents,2
+A49537,09-09-2024,B75288,Approved,H34830,Approved,FB27465,Rejected,RB81741,Rejected,Rejected,Scratches,3
+A50572,02-11-2024,B19674,Rejected,H69384,Approved,FB35230,Approved,RB74381,Rejected,Rejected,Incorrect Paint Job,4
+A35363,02-10-2024,B49767,Rejected,H73809,Rejected,FB82900,Approved,RB66530,Approved,Rejected,Dents,5
+A21172,06-12-2024,B62918,Rejected,H50883,Rejected,FB16706,Approved,RB10614,Approved,Rejected,Misalignment,4
+A35616,03-09-2024,B69318,Rejected,H56926,Approved,FB62423,Approved,RB89384,Approved,Rejected,Structural Failure,3
+A40873,13-09-2024,B12627,Approved,H54138,Approved,FB94809,Approved,RB57548,Approved,Accepted,,5
+A47863,09-08-2024,B72986,Approved,H36403,Approved,FB41872,Rejected,RB71863,Approved,Rejected,Structural Failure,2
+A58331,23-12-2024,B89921,Rejected,H28838,Approved,FB73436,Approved,RB28629,Approved,Rejected,Dents,2
+A77467,04-10-2024,B97882,Rejected,H26133,Rejected,FB24326,Rejected,RB16778,Rejected,Rejected,Weld Marks,4
+A93772,30-11-2024,B55250,Rejected,H84015,Approved,FB36260,Rejected,RB51669,Approved,Rejected,Structural Failure,4
+A17557,23-09-2024,B16206,Approved,H51300,Approved,FB61667,Rejected,RB11722,Rejected,Rejected,Dents,3
+A99267,08-12-2024,B93059,Approved,H79924,Approved,FB33996,Approved,RB94563,Approved,Accepted,,1
+A28668,16-07-2024,B25972,Rejected,H46537,Rejected,FB72327,Approved,RB13820,Rejected,Rejected,Scratches,4
+A57068,07-11-2024,B54611,Approved,H14881,Approved,FB85448,Approved,RB69480,Approved,Accepted,,5
+A91375,11-07-2024,B63501,Approved,H28344,Approved,FB16656,Rejected,RB64510,Rejected,Rejected,Dust Particles in Paint,3
+A20118,05-09-2024,B64184,Approved,H13571,Approved,FB28452,Rejected,RB10706,Approved,Rejected,Dents,4
+A43759,31-08-2024,B41148,Rejected,H96420,Rejected,FB56714,Approved,RB95929,Rejected,Rejected,Scratches,3
+A47024,13-12-2024,B89759,Approved,H42251,Approved,FB83284,Rejected,RB85221,Approved,Rejected,Incorrect Paint Job,4
+A46519,15-08-2024,B46870,Rejected,H95728,Approved,FB98534,Rejected,RB98990,Rejected,Rejected,Dents,5
+A62279,22-08-2024,B98130,Rejected,H63922,Approved,FB84208,Approved,RB72933,Rejected,Rejected,Structural Failure,3
+A11968,24-08-2024,B84150,Approved,H58491,Rejected,FB83669,Rejected,RB90319,Approved,Rejected,Dust Particles in Paint,2
+A25637,27-11-2024,B89522,Approved,H84297,Approved,FB48641,Approved,RB99878,Approved,Accepted,,4
+A69972,20-08-2024,B40079,Rejected,H98909,Rejected,FB34246,Approved,RB85258,Rejected,Rejected,Structural Failure,1
+A31500,13-10-2024,B31568,Rejected,H14581,Rejected,FB59995,Approved,RB67689,Approved,Rejected,Misalignment,3
+A73322,12-10-2024,B77171,Approved,H23740,Approved,FB35897,Approved,RB80466,Rejected,Rejected,Weld Marks,5
+A34027,05-09-2024,B34407,Approved,H68956,Approved,FB11055,Rejected,RB51869,Approved,Rejected,Misalignment,1
+A50996,16-09-2024,B85183,Approved,H59341,Approved,FB91065,Approved,RB82616,Approved,Accepted,,2
+A19440,19-10-2024,B85845,Rejected,H83939,Rejected,FB72239,Rejected,RB64111,Approved,Rejected,Scratches,1
+A62898,09-07-2024,B86353,Rejected,H38454,Approved,FB52612,Rejected,RB13295,Approved,Rejected,Dust Particles in Paint,4
+A61593,27-12-2024,B75631,Rejected,H31282,Approved,FB36133,Approved,RB18388,Rejected,Rejected,Dust Particles in Paint,2
+A92405,17-07-2024,B72956,Approved,H60071,Approved,FB68921,Approved,RB11664,Rejected,Rejected,Structural Failure,5
+A72924,27-08-2024,B18074,Approved,H24947,Approved,FB75442,Approved,RB32557,Approved,Accepted,,4
+A13810,30-09-2024,B25677,Rejected,H95227,Rejected,FB63694,Approved,RB40348,Approved,Rejected,Weld Marks,4
+A28885,19-12-2024,B14423,Rejected,H57360,Approved,FB18139,Approved,RB36968,Approved,Rejected,Structural Failure,4
+A89997,19-11-2024,B18596,Approved,H37082,Rejected,FB72033,Approved,RB30357,Approved,Rejected,Incorrect Paint Job,1
+A14207,15-10-2024,B23807,Approved,H80982,Approved,FB93995,Approved,RB12381,Rejected,Rejected,Weld Marks,1
+A20860,06-11-2024,B46080,Rejected,H94175,Approved,FB98583,Approved,RB76013,Approved,Rejected,Weld Marks,5
+A58559,13-07-2024,B30975,Approved,H96002,Approved,FB33657,Approved,RB76445,Rejected,Rejected,Incorrect Paint Job,5
+A55694,02-10-2024,B13059,Approved,H22447,Approved,FB35572,Approved,RB58555,Approved,Accepted,,2
+A46272,18-12-2024,B91406,Approved,H42866,Approved,FB13385,Approved,RB32401,Approved,Accepted,,5
+A12882,28-11-2024,B80122,Rejected,H32903,Approved,FB49897,Approved,RB24263,Rejected,Rejected,Dents,5
+A13157,12-10-2024,B98500,Approved,H70532,Approved,FB75513,Approved,RB67781,Approved,Accepted,,3
+A19955,02-12-2024,B81011,Approved,H58416,Approved,FB87594,Approved,RB47158,Approved,Accepted,,2
+A59615,01-08-2024,B64922,Rejected,H18877,Approved,FB52685,Approved,RB18835,Approved,Rejected,Weld Marks,3
+A38752,21-11-2024,B65998,Rejected,H65647,Approved,FB33324,Approved,RB90720,Rejected,Rejected,Structural Failure,3
+A52713,08-11-2024,B96382,Rejected,H75708,Approved,FB43811,Approved,RB75598,Approved,Rejected,Weld Marks,1
+A15328,06-08-2024,B19540,Approved,H59470,Rejected,FB61095,Approved,RB27715,Rejected,Rejected,Scratches,4
+A51849,15-10-2024,B18224,Approved,H99741,Rejected,FB22925,Rejected,RB55729,Rejected,Rejected,Weld Marks,3
+A47666,21-07-2024,B68517,Rejected,H24426,Rejected,FB94701,Approved,RB76058,Approved,Rejected,Scratches,2
+A58861,28-09-2024,B15664,Approved,H20815,Approved,FB11832,Rejected,RB18731,Approved,Rejected,Incorrect Paint Job,2
+A69933,13-07-2024,B76253,Rejected,H33474,Rejected,FB56333,Approved,RB68845,Rejected,Rejected,Weld Marks,5
+A35236,02-12-2024,B98117,Approved,H65976,Approved,FB36337,Rejected,RB79575,Approved,Rejected,Weld Marks,2
+A36500,09-07-2024,B93130,Approved,H83780,Rejected,FB41296,Approved,RB64535,Approved,Rejected,Scratches,1
+A88760,05-12-2024,B20809,Approved,H48440,Approved,FB14977,Approved,RB85972,Approved,Accepted,,5
+A54413,10-07-2024,B27761,Approved,H47352,Approved,FB20394,Approved,RB62144,Rejected,Rejected,Structural Failure,1
+A63483,11-10-2024,B14147,Rejected,H60915,Approved,FB65822,Rejected,RB45291,Approved,Rejected,Weld Marks,4
+A23202,20-09-2024,B55376,Approved,H94354,Approved,FB75186,Approved,RB90096,Approved,Accepted,,2
+A56747,05-07-2024,B68356,Approved,H63529,Rejected,FB77007,Approved,RB20665,Rejected,Rejected,Misalignment,5
+A36393,19-12-2024,B75872,Approved,H19192,Approved,FB90243,Approved,RB23191,Approved,Accepted,,4
+A45873,12-07-2024,B35227,Approved,H23015,Rejected,FB65792,Rejected,RB31873,Rejected,Rejected,Dust Particles in Paint,4
+A70416,07-12-2024,B29152,Approved,H78251,Approved,FB29959,Approved,RB86636,Approved,Accepted,,3
+A52695,19-08-2024,B78613,Rejected,H29526,Rejected,FB30348,Approved,RB82938,Rejected,Rejected,Misalignment,4
+A91485,01-12-2024,B69647,Approved,H48326,Approved,FB36691,Rejected,RB28226,Rejected,Rejected,Misalignment,4
+A28740,04-08-2024,B35574,Approved,H27288,Rejected,FB61265,Approved,RB99596,Rejected,Rejected,Weld Marks,1
+A20973,08-11-2024,B95878,Rejected,H51198,Rejected,FB51615,Rejected,RB11522,Approved,Rejected,Incorrect Paint Job,2
+A80243,22-10-2024,B55011,Approved,H88182,Rejected,FB78349,Rejected,RB14179,Approved,Rejected,Dents,5
+A60782,10-11-2024,B50408,Approved,H39428,Approved,FB64285,Approved,RB22241,Approved,Accepted,,5
+A37646,01-09-2024,B88782,Approved,H82087,Approved,FB32279,Approved,RB48594,Rejected,Rejected,Structural Failure,4
+A79732,15-07-2024,B35250,Approved,H84297,Rejected,FB17915,Rejected,RB52472,Approved,Rejected,Structural Failure,4
+A93333,03-10-2024,B43485,Approved,H46131,Approved,FB76139,Rejected,RB14642,Approved,Rejected,Weld Marks,2
+A46591,23-10-2024,B54217,Approved,H15702,Approved,FB21792,Rejected,RB78021,Approved,Rejected,Dents,3
+A30333,05-12-2024,B46897,Approved,H14381,Rejected,FB38178,Approved,RB87334,Approved,Rejected,Dust Particles in Paint,2
+A43187,09-11-2024,B64070,Rejected,H66035,Rejected,FB87713,Rejected,RB27147,Rejected,Rejected,Dents,2
+A86832,06-12-2024,B79652,Rejected,H15739,Approved,FB82030,Rejected,RB94709,Approved,Rejected,Weld Marks,1
+A31546,15-09-2024,B12442,Approved,H18635,Rejected,FB90512,Approved,RB89497,Approved,Rejected,Dents,4
+A41687,12-11-2024,B89115,Approved,H79775,Approved,FB87599,Approved,RB59567,Approved,Accepted,,3
+A24265,29-11-2024,B21982,Approved,H66306,Approved,FB32230,Approved,RB76593,Approved,Accepted,,5
+A48528,04-08-2024,B19529,Approved,H51761,Approved,FB85850,Approved,RB30536,Approved,Accepted,,3
+A45405,04-11-2024,B71801,Rejected,H54806,Rejected,FB54825,Approved,RB34891,Rejected,Rejected,Misalignment,3
+A55800,17-09-2024,B14908,Rejected,H42342,Approved,FB70512,Approved,RB40992,Approved,Rejected,Misalignment,3
+A70776,30-08-2024,B15683,Approved,H60622,Approved,FB73518,Approved,RB53820,Approved,Accepted,,1
+A52883,24-09-2024,B95330,Approved,H80116,Approved,FB36182,Rejected,RB73686,Approved,Rejected,Incorrect Paint Job,1
+A93402,16-07-2024,B87936,Approved,H62336,Approved,FB75883,Rejected,RB67388,Approved,Rejected,Structural Failure,3
+A99665,07-09-2024,B93008,Approved,H38334,Approved,FB58151,Approved,RB57467,Approved,Accepted,,1
+A86506,18-10-2024,B33695,Rejected,H12596,Approved,FB79273,Rejected,RB59135,Approved,Rejected,Dents,3
+A89874,16-11-2024,B78096,Rejected,H32409,Approved,FB65599,Approved,RB38321,Approved,Rejected,Dents,5
+A28703,14-10-2024,B76257,Approved,H41583,Rejected,FB10494,Rejected,RB84548,Approved,Rejected,Dents,1
+A46831,07-12-2024,B50267,Rejected,H60702,Approved,FB79932,Rejected,RB64485,Approved,Rejected,Scratches,2
+A14876,09-08-2024,B35408,Approved,H29323,Approved,FB79102,Approved,RB22027,Approved,Accepted,,2
+A59393,04-08-2024,B93177,Approved,H60725,Approved,FB17263,Rejected,RB50013,Approved,Rejected,Dents,3
+A75852,08-11-2024,B13130,Approved,H91299,Approved,FB86958,Approved,RB16816,Approved,Accepted,,4
+A40169,22-08-2024,B65191,Approved,H18938,Approved,FB11892,Rejected,RB86101,Approved,Rejected,Dents,5
+A79191,30-07-2024,B61508,Approved,H32555,Approved,FB87160,Approved,RB26661,Approved,Accepted,,1
+A85208,02-10-2024,B61449,Approved,H51019,Rejected,FB37040,Rejected,RB68204,Approved,Rejected,Dust Particles in Paint,3
+A99727,25-07-2024,B33419,Rejected,H83594,Rejected,FB42960,Rejected,RB41306,Approved,Rejected,Dust Particles in Paint,5
+A64019,27-11-2024,B68176,Rejected,H25713,Approved,FB42922,Rejected,RB59286,Approved,Rejected,Dents,3
+A71319,30-07-2024,B31514,Approved,H78098,Approved,FB84521,Approved,RB46231,Approved,Accepted,,1
+A13300,03-10-2024,B75295,Approved,H70109,Rejected,FB12282,Approved,RB93018,Rejected,Rejected,Weld Marks,5
+A50101,06-08-2024,B52301,Approved,H97127,Rejected,FB56897,Approved,RB82558,Approved,Rejected,Structural Failure,3
+A89373,02-09-2024,B34686,Rejected,H82758,Approved,FB42352,Rejected,RB43657,Approved,Rejected,Scratches,4
+A73221,03-12-2024,B13959,Approved,H62037,Approved,FB39378,Approved,RB80942,Approved,Accepted,,5
+A40918,20-07-2024,B11700,Approved,H34142,Approved,FB71962,Approved,RB66716,Approved,Accepted,,1
+A34569,24-07-2024,B20539,Approved,H82846,Approved,FB10168,Rejected,RB33201,Approved,Rejected,Incorrect Paint Job,3
+A39503,03-12-2024,B25296,Approved,H54756,Approved,FB57911,Approved,RB64366,Approved,Accepted,,3
+A65427,22-08-2024,B15424,Approved,H49625,Approved,FB99848,Approved,RB77695,Rejected,Rejected,Dust Particles in Paint,5
+A92883,14-09-2024,B35512,Rejected,H23550,Approved,FB54065,Rejected,RB91687,Approved,Rejected,Dents,3
+A96239,22-08-2024,B34602,Approved,H17569,Rejected,FB11554,Rejected,RB35750,Approved,Rejected,Dust Particles in Paint,2
+A12028,31-07-2024,B64771,Approved,H23512,Approved,FB70674,Approved,RB33642,Rejected,Rejected,Structural Failure,1
+A53836,06-09-2024,B57300,Rejected,H44417,Rejected,FB60626,Rejected,RB57935,Approved,Rejected,Weld Marks,5
+A46293,29-12-2024,B23519,Approved,H88488,Approved,FB68760,Approved,RB22875,Approved,Accepted,,1
+A27135,29-10-2024,B40899,Approved,H95838,Rejected,FB41316,Rejected,RB15004,Rejected,Rejected,Misalignment,4
+A79008,07-07-2024,B41674,Approved,H20735,Approved,FB70971,Approved,RB57123,Rejected,Rejected,Scratches,3
+A31976,13-11-2024,B88380,Approved,H43061,Approved,FB73286,Approved,RB38796,Rejected,Rejected,Dents,2
+A83407,31-08-2024,B67660,Rejected,H33419,Approved,FB16715,Approved,RB75842,Approved,Rejected,Weld Marks,5
+A72499,24-11-2024,B60106,Rejected,H29128,Approved,FB81171,Approved,RB39077,Approved,Rejected,Dust Particles in Paint,2
+A30446,21-07-2024,B48863,Approved,H93926,Approved,FB94121,Approved,RB70957,Approved,Accepted,,2
+A36058,02-08-2024,B16764,Approved,H95461,Rejected,FB90858,Approved,RB35672,Rejected,Rejected,Dents,4
+A68602,09-09-2024,B26457,Approved,H90965,Approved,FB77814,Rejected,RB80517,Rejected,Rejected,Dents,1
+A68803,29-07-2024,B66319,Approved,H25294,Approved,FB66735,Approved,RB17748,Approved,Accepted,,1
+A59348,26-12-2024,B29327,Approved,H14638,Approved,FB50764,Approved,RB43372,Approved,Accepted,,1
+A61208,19-08-2024,B58453,Rejected,H66119,Approved,FB85146,Approved,RB82209,Rejected,Rejected,Misalignment,4
+A64770,02-09-2024,B38956,Approved,H84830,Approved,FB72329,Approved,RB72805,Approved,Accepted,,2
+A56227,26-12-2024,B11656,Approved,H56974,Rejected,FB36496,Approved,RB88612,Approved,Rejected,Dust Particles in Paint,5
+A47360,01-12-2024,B48888,Approved,H98353,Approved,FB13161,Approved,RB56345,Approved,Accepted,,3
+A62509,30-08-2024,B47998,Approved,H52580,Approved,FB93073,Rejected,RB61019,Rejected,Rejected,Misalignment,1
+A83895,01-08-2024,B23388,Approved,H76107,Rejected,FB20397,Rejected,RB13208,Rejected,Rejected,Scratches,3
+A72676,01-07-2024,B22463,Approved,H30590,Approved,FB16576,Approved,RB41462,Approved,Accepted,,4
+A24449,06-12-2024,B41491,Approved,H89506,Rejected,FB13493,Approved,RB40497,Approved,Rejected,Structural Failure,1
+A88823,06-11-2024,B72432,Rejected,H53213,Rejected,FB21558,Approved,RB11355,Approved,Rejected,Weld Marks,3
+A75296,24-12-2024,B78090,Approved,H74241,Approved,FB86335,Approved,RB54577,Approved,Accepted,,1
+A73187,26-09-2024,B65266,Approved,H37682,Approved,FB58285,Approved,RB76317,Approved,Accepted,,2
+A33137,06-07-2024,B84849,Approved,H59748,Approved,FB40262,Approved,RB93272,Approved,Accepted,,3
+A30502,08-11-2024,B19947,Rejected,H68190,Approved,FB64519,Rejected,RB15255,Approved,Rejected,Scratches,2
+A79012,23-11-2024,B72333,Approved,H66889,Approved,FB65834,Approved,RB55416,Approved,Accepted,,2
+A35237,15-07-2024,B55173,Approved,H46157,Rejected,FB47329,Approved,RB69441,Approved,Rejected,Structural Failure,4
+A59579,10-08-2024,B85464,Rejected,H76028,Rejected,FB19327,Approved,RB97955,Approved,Rejected,Dust Particles in Paint,2
+A59409,26-11-2024,B37020,Rejected,H96635,Rejected,FB50610,Rejected,RB27963,Approved,Rejected,Dents,1
+A19447,03-10-2024,B58049,Rejected,H32653,Approved,FB78062,Rejected,RB10792,Approved,Rejected,Incorrect Paint Job,5
+A25018,11-08-2024,B16185,Rejected,H68127,Approved,FB17924,Approved,RB59844,Rejected,Rejected,Dents,5
+A48649,14-08-2024,B75817,Approved,H87586,Approved,FB46843,Approved,RB68888,Approved,Accepted,,1
+A48777,14-07-2024,B28390,Rejected,H70510,Rejected,FB49870,Rejected,RB26952,Approved,Rejected,Misalignment,5
+A43695,23-09-2024,B76691,Approved,H13103,Approved,FB22053,Rejected,RB50973,Approved,Rejected,Dust Particles in Paint,3
+A98790,20-11-2024,B95867,Approved,H40104,Approved,FB69093,Rejected,RB73246,Approved,Rejected,Dents,1
+A46258,20-08-2024,B82056,Rejected,H36252,Approved,FB74304,Rejected,RB14708,Rejected,Rejected,Dents,3
+A16627,18-12-2024,B84833,Approved,H32059,Rejected,FB41400,Rejected,RB45058,Approved,Rejected,Misalignment,1
+A64114,06-11-2024,B45104,Rejected,H52185,Rejected,FB60931,Rejected,RB98844,Approved,Rejected,Dents,3
+A34588,18-09-2024,B65297,Rejected,H48228,Rejected,FB70790,Rejected,RB46653,Rejected,Rejected,Misalignment,5
+A26333,05-11-2024,B69550,Rejected,H79460,Approved,FB60481,Approved,RB98549,Approved,Rejected,Dust Particles in Paint,3
+A99329,05-08-2024,B22017,Approved,H70593,Approved,FB55989,Rejected,RB28992,Rejected,Rejected,Dust Particles in Paint,5
+A75163,25-12-2024,B82786,Approved,H70901,Approved,FB29867,Approved,RB11135,Rejected,Rejected,Dents,1
+A89998,26-10-2024,B85885,Rejected,H82647,Rejected,FB78809,Approved,RB55822,Rejected,Rejected,Dents,5
+A23230,06-08-2024,B95227,Rejected,H45920,Rejected,FB71592,Approved,RB81054,Approved,Rejected,Dust Particles in Paint,3
+A23661,25-11-2024,B88118,Approved,H72316,Approved,FB51124,Approved,RB77434,Approved,Accepted,,3
+A70490,26-11-2024,B65943,Approved,H60163,Approved,FB52891,Approved,RB62504,Rejected,Rejected,Dust Particles in Paint,3
+A57880,09-10-2024,B77361,Rejected,H26153,Approved,FB47725,Rejected,RB81854,Rejected,Rejected,Dents,5
+A23215,12-09-2024,B34717,Approved,H25425,Approved,FB56633,Approved,RB31275,Rejected,Rejected,Structural Failure,4
+A90910,13-11-2024,B28673,Approved,H13777,Approved,FB62663,Approved,RB68645,Approved,Accepted,,4
+A91301,24-11-2024,B58480,Approved,H19022,Approved,FB13720,Rejected,RB89247,Approved,Rejected,Dents,5
+A80250,28-11-2024,B83133,Approved,H58281,Approved,FB18695,Rejected,RB22851,Approved,Rejected,Misalignment,3
+A23246,18-12-2024,B58634,Approved,H45268,Approved,FB35735,Approved,RB57883,Approved,Accepted,,2
+A72423,28-08-2024,B92178,Approved,H59575,Approved,FB76504,Rejected,RB31952,Rejected,Rejected,Dust Particles in Paint,3
+A37464,01-07-2024,B22633,Approved,H33538,Approved,FB18936,Approved,RB49724,Approved,Accepted,,5
+A65400,27-10-2024,B26006,Rejected,H91534,Approved,FB48095,Rejected,RB15225,Rejected,Rejected,Weld Marks,5
+A84668,09-12-2024,B73605,Rejected,H34241,Approved,FB42897,Approved,RB99123,Approved,Rejected,Dents,4
+A69742,18-09-2024,B29101,Rejected,H66920,Approved,FB85438,Approved,RB89876,Approved,Rejected,Structural Failure,3
+A40253,29-07-2024,B46867,Approved,H67255,Rejected,FB88613,Rejected,RB63344,Rejected,Rejected,Weld Marks,4
+A45164,25-07-2024,B87571,Approved,H50538,Rejected,FB35054,Approved,RB46773,Rejected,Rejected,Dust Particles in Paint,2
+A35920,09-08-2024,B76590,Approved,H35244,Approved,FB23347,Approved,RB46353,Approved,Accepted,,5
+A73494,13-09-2024,B33467,Approved,H12088,Approved,FB87373,Approved,RB40529,Approved,Accepted,,1
+A81603,02-09-2024,B25599,Approved,H22091,Approved,FB10075,Approved,RB37789,Approved,Accepted,,4
+A51565,01-09-2024,B32848,Approved,H90789,Approved,FB23533,Approved,RB83039,Rejected,Rejected,Misalignment,1
+A59651,07-11-2024,B10402,Approved,H79754,Rejected,FB66096,Rejected,RB12862,Approved,Rejected,Dents,2
+A47776,30-07-2024,B48483,Approved,H21024,Rejected,FB95536,Rejected,RB27312,Rejected,Rejected,Incorrect Paint Job,2
+A46371,28-09-2024,B42900,Approved,H26906,Approved,FB59765,Rejected,RB75087,Approved,Rejected,Weld Marks,5
+A74524,06-07-2024,B63392,Rejected,H64722,Approved,FB48996,Rejected,RB80006,Approved,Rejected,Structural Failure,5
+A68832,11-08-2024,B42698,Approved,H22911,Rejected,FB19845,Approved,RB73103,Rejected,Rejected,Incorrect Paint Job,1
+A84868,26-08-2024,B92996,Rejected,H98220,Rejected,FB66019,Approved,RB96493,Approved,Rejected,Dust Particles in Paint,3
+A32244,16-11-2024,B18208,Approved,H29810,Approved,FB73086,Approved,RB98648,Approved,Accepted,,5
+A39327,12-11-2024,B85570,Approved,H18498,Approved,FB49518,Rejected,RB19436,Rejected,Rejected,Misalignment,2
+A16635,26-11-2024,B18063,Approved,H84571,Approved,FB63115,Approved,RB71113,Approved,Accepted,,4
+A59157,22-07-2024,B52450,Rejected,H83603,Approved,FB83536,Approved,RB17228,Approved,Rejected,Scratches,2
+A57399,28-09-2024,B56889,Approved,H72051,Rejected,FB61382,Approved,RB50426,Rejected,Rejected,Misalignment,4
+A40551,14-12-2024,B75293,Approved,H87546,Rejected,FB76135,Approved,RB21587,Approved,Rejected,Structural Failure,3
+A91207,05-12-2024,B33468,Approved,H82397,Approved,FB36759,Approved,RB61676,Approved,Accepted,,2
+A18038,27-09-2024,B70905,Approved,H25355,Rejected,FB45931,Rejected,RB33413,Rejected,Rejected,Dents,1
+A51683,09-12-2024,B14634,Approved,H34208,Approved,FB65350,Rejected,RB62482,Rejected,Rejected,Incorrect Paint Job,3
+A23285,27-10-2024,B81883,Approved,H75172,Approved,FB49414,Approved,RB89230,Rejected,Rejected,Incorrect Paint Job,1
+A75638,09-07-2024,B69462,Approved,H69946,Rejected,FB99173,Approved,RB60972,Approved,Rejected,Dents,2
+A11988,09-08-2024,B36434,Rejected,H82333,Rejected,FB54538,Rejected,RB56789,Approved,Rejected,Dents,2
+A37528,19-08-2024,B21279,Rejected,H54377,Rejected,FB15771,Approved,RB69743,Rejected,Rejected,Structural Failure,1
+A75044,13-10-2024,B17355,Rejected,H83172,Approved,FB72281,Rejected,RB98173,Rejected,Rejected,Structural Failure,3
+A48882,16-12-2024,B79350,Approved,H62767,Approved,FB59321,Approved,RB77391,Approved,Accepted,,1
+A98042,22-12-2024,B44584,Approved,H93869,Rejected,FB76532,Approved,RB31014,Approved,Rejected,Scratches,5
+A20560,26-10-2024,B37752,Approved,H48107,Rejected,FB95592,Approved,RB99939,Approved,Rejected,Incorrect Paint Job,4
+A45849,15-11-2024,B80990,Rejected,H46406,Rejected,FB25089,Rejected,RB91246,Rejected,Rejected,Dents,4
+A62499,20-10-2024,B88087,Approved,H22296,Approved,FB47592,Approved,RB21468,Approved,Accepted,,1
+A92551,21-11-2024,B17428,Approved,H45747,Rejected,FB95241,Approved,RB14242,Approved,Rejected,Structural Failure,1
+A22460,20-09-2024,B85132,Approved,H74860,Approved,FB90759,Rejected,RB19891,Approved,Rejected,Structural Failure,2
+A92288,08-12-2024,B94263,Approved,H74200,Approved,FB45652,Rejected,RB31643,Approved,Rejected,Misalignment,2
+A10593,19-10-2024,B67769,Rejected,H80476,Rejected,FB25625,Rejected,RB39667,Approved,Rejected,Weld Marks,1
+A59573,19-11-2024,B57031,Rejected,H85348,Rejected,FB69520,Approved,RB68385,Approved,Rejected,Misalignment,2
+A50487,16-09-2024,B74997,Approved,H27726,Approved,FB33600,Rejected,RB25244,Approved,Rejected,Scratches,3
+A59238,05-07-2024,B82025,Rejected,H47511,Approved,FB67644,Approved,RB31168,Approved,Rejected,Misalignment,4
+A45385,20-07-2024,B57252,Approved,H97738,Rejected,FB32392,Approved,RB82194,Approved,Rejected,Misalignment,3
+A61342,09-07-2024,B67454,Approved,H84080,Rejected,FB10898,Approved,RB12696,Rejected,Rejected,Misalignment,4
+A68886,06-11-2024,B87586,Approved,H98422,Rejected,FB27517,Approved,RB57584,Approved,Rejected,Scratches,2
+A67121,24-12-2024,B46929,Approved,H12953,Approved,FB57981,Approved,RB62724,Approved,Accepted,,1
+A66895,15-07-2024,B55272,Approved,H77175,Approved,FB48148,Approved,RB16233,Approved,Accepted,,2
+A51779,16-08-2024,B87412,Approved,H49050,Rejected,FB47794,Rejected,RB14315,Rejected,Rejected,Weld Marks,5
+A34519,30-08-2024,B40825,Approved,H31745,Approved,FB40305,Approved,RB84347,Approved,Accepted,,5
+A52987,05-11-2024,B67748,Approved,H22237,Approved,FB53543,Rejected,RB17241,Approved,Rejected,Incorrect Paint Job,5
+A89483,29-10-2024,B92437,Rejected,H82540,Approved,FB29698,Rejected,RB57084,Rejected,Rejected,Incorrect Paint Job,5
+A13936,06-11-2024,B47124,Approved,H86791,Approved,FB84284,Rejected,RB57377,Approved,Rejected,Incorrect Paint Job,1
+A93686,24-12-2024,B89203,Rejected,H27164,Approved,FB51264,Rejected,RB59047,Approved,Rejected,Incorrect Paint Job,2
+A69276,27-10-2024,B32691,Approved,H47320,Approved,FB77317,Rejected,RB98829,Approved,Rejected,Structural Failure,2
+A67049,27-11-2024,B57600,Approved,H36733,Approved,FB41270,Rejected,RB51374,Approved,Rejected,Scratches,3
+A82727,11-09-2024,B35029,Rejected,H31699,Rejected,FB88724,Approved,RB22974,Approved,Rejected,Dust Particles in Paint,1
+A81239,28-11-2024,B91894,Rejected,H15098,Rejected,FB15940,Approved,RB62714,Approved,Rejected,Dust Particles in Paint,3
+A99100,02-09-2024,B69282,Approved,H78671,Approved,FB26186,Approved,RB61261,Rejected,Rejected,Weld Marks,2
+A71316,15-10-2024,B50227,Approved,H71591,Approved,FB11570,Approved,RB22182,Approved,Accepted,,3
+A71958,27-12-2024,B96190,Approved,H38149,Rejected,FB26653,Approved,RB91446,Approved,Rejected,Misalignment,4
+A20923,10-10-2024,B82195,Rejected,H83723,Approved,FB68952,Approved,RB63859,Rejected,Rejected,Dust Particles in Paint,3
+A44171,06-09-2024,B74331,Approved,H40452,Approved,FB26457,Approved,RB36000,Approved,Accepted,,2
+A62939,18-07-2024,B48177,Approved,H68148,Approved,FB43299,Approved,RB98602,Rejected,Rejected,Misalignment,4
+A67034,27-08-2024,B18301,Approved,H71773,Approved,FB61711,Approved,RB32429,Rejected,Rejected,Weld Marks,2
+A50890,05-12-2024,B99049,Approved,H58306,Approved,FB17690,Approved,RB59129,Approved,Accepted,,3
+A41502,07-09-2024,B46606,Rejected,H76938,Rejected,FB77778,Approved,RB73656,Approved,Rejected,Weld Marks,2
+A23026,07-12-2024,B94683,Approved,H28356,Approved,FB73042,Approved,RB79745,Approved,Accepted,,3
+A36386,02-07-2024,B14549,Rejected,H67351,Rejected,FB72514,Approved,RB62908,Approved,Rejected,Scratches,2
+A23994,24-10-2024,B10076,Rejected,H24494,Rejected,FB59799,Approved,RB30061,Approved,Rejected,Dust Particles in Paint,1
+A47031,04-12-2024,B41200,Approved,H31147,Rejected,FB38397,Approved,RB26735,Rejected,Rejected,Weld Marks,1
+A64156,13-11-2024,B45216,Approved,H56439,Approved,FB55838,Approved,RB52925,Approved,Accepted,,4
+A90341,04-12-2024,B84874,Approved,H17108,Approved,FB39347,Approved,RB91058,Approved,Accepted,,1
+A24620,24-09-2024,B31710,Approved,H30866,Approved,FB22708,Rejected,RB20830,Rejected,Rejected,Dents,3
+A41400,24-11-2024,B71871,Rejected,H67585,Approved,FB55557,Rejected,RB99257,Approved,Rejected,Structural Failure,3
+A67122,09-07-2024,B51892,Approved,H64389,Approved,FB41998,Approved,RB75535,Rejected,Rejected,Scratches,5
+A74486,10-10-2024,B29917,Approved,H65362,Approved,FB68879,Rejected,RB84365,Rejected,Rejected,Dents,3
+A59066,23-07-2024,B64018,Approved,H38998,Rejected,FB14429,Rejected,RB65364,Approved,Rejected,Weld Marks,3
+A31471,02-12-2024,B54374,Approved,H95170,Approved,FB95257,Approved,RB16888,Approved,Accepted,,1
+A14707,28-10-2024,B28918,Approved,H95154,Rejected,FB13390,Approved,RB20343,Rejected,Rejected,Dust Particles in Paint,5
+A50542,12-12-2024,B91411,Approved,H60257,Rejected,FB84621,Approved,RB77544,Approved,Rejected,Structural Failure,4
+A28457,28-08-2024,B81226,Rejected,H56023,Approved,FB46282,Approved,RB70679,Rejected,Rejected,Scratches,4
+A76338,09-09-2024,B97428,Approved,H60027,Approved,FB66544,Approved,RB79054,Approved,Accepted,,4
+A99194,04-09-2024,B38111,Approved,H70810,Rejected,FB47377,Rejected,RB53048,Approved,Rejected,Dust Particles in Paint,1
+A67522,20-11-2024,B97988,Rejected,H75189,Approved,FB68132,Rejected,RB47969,Approved,Rejected,Scratches,2
+A63853,11-12-2024,B65901,Approved,H62816,Approved,FB34088,Rejected,RB87513,Approved,Rejected,Scratches,4
+A77778,07-11-2024,B35352,Rejected,H16076,Approved,FB31938,Approved,RB95681,Approved,Rejected,Misalignment,3
+A35992,07-11-2024,B55227,Approved,H99322,Approved,FB60021,Approved,RB83697,Approved,Accepted,,5
+A73485,26-07-2024,B33232,Approved,H66658,Approved,FB50012,Approved,RB56072,Rejected,Rejected,Dents,1
+A71133,09-10-2024,B64219,Approved,H10765,Approved,FB57599,Approved,RB38502,Approved,Accepted,,5
+A82811,05-08-2024,B67982,Approved,H37813,Approved,FB96684,Approved,RB42819,Approved,Accepted,,4
+A65095,01-12-2024,B79751,Approved,H29699,Approved,FB85117,Approved,RB69037,Rejected,Rejected,Structural Failure,3
+A86671,19-07-2024,B19620,Rejected,H93905,Rejected,FB43652,Rejected,RB49461,Rejected,Rejected,Dents,4
+A94389,02-12-2024,B42193,Rejected,H60906,Rejected,FB44617,Approved,RB23412,Approved,Rejected,Weld Marks,3
+A79011,13-09-2024,B10618,Rejected,H67860,Rejected,FB79189,Approved,RB67740,Rejected,Rejected,Misalignment,5
+A70021,03-10-2024,B83348,Rejected,H71601,Approved,FB62324,Approved,RB55837,Approved,Rejected,Structural Failure,1
+A38213,27-11-2024,B55890,Approved,H39689,Rejected,FB16478,Approved,RB54768,Rejected,Rejected,Weld Marks,1
+A19823,15-10-2024,B62475,Rejected,H85452,Rejected,FB76189,Rejected,RB84640,Rejected,Rejected,Dust Particles in Paint,3
+A91304,13-07-2024,B81328,Approved,H82850,Rejected,FB90225,Rejected,RB97437,Rejected,Rejected,Weld Marks,4
+A93679,19-12-2024,B76295,Approved,H54684,Approved,FB14453,Approved,RB50096,Approved,Accepted,,2
+A52707,15-09-2024,B70201,Approved,H37142,Approved,FB43649,Rejected,RB78128,Rejected,Rejected,Dents,3
+A34189,25-07-2024,B83159,Approved,H27522,Approved,FB35883,Approved,RB37125,Rejected,Rejected,Incorrect Paint Job,4
+A33401,07-09-2024,B23327,Approved,H27704,Approved,FB19918,Approved,RB68413,Approved,Accepted,,2
+A50098,28-07-2024,B80865,Rejected,H62516,Rejected,FB37428,Approved,RB52370,Approved,Rejected,Misalignment,3
+A95362,25-07-2024,B78500,Approved,H28432,Approved,FB53455,Approved,RB52279,Approved,Accepted,,4
+A42952,06-11-2024,B41428,Approved,H89621,Approved,FB30334,Approved,RB92348,Rejected,Rejected,Structural Failure,5
+A41917,26-11-2024,B35149,Approved,H83898,Approved,FB56246,Approved,RB14533,Approved,Accepted,,1
+A14841,15-12-2024,B49865,Approved,H48314,Rejected,FB33699,Rejected,RB65278,Approved,Rejected,Scratches,5
+A23367,14-08-2024,B17921,Approved,H44757,Rejected,FB25678,Approved,RB68853,Approved,Rejected,Structural Failure,1
+A56183,16-08-2024,B85354,Approved,H77111,Approved,FB50345,Approved,RB48341,Rejected,Rejected,Dents,5
+A40987,09-08-2024,B83972,Approved,H83288,Rejected,FB76034,Approved,RB85414,Approved,Rejected,Misalignment,1
+A47241,05-09-2024,B65936,Approved,H68244,Approved,FB64891,Approved,RB22971,Approved,Accepted,,1
+A16114,19-12-2024,B76079,Approved,H56911,Approved,FB70938,Approved,RB64255,Approved,Accepted,,4
+A42010,19-09-2024,B26513,Approved,H71557,Rejected,FB70627,Rejected,RB34073,Approved,Rejected,Scratches,1
+A53043,13-09-2024,B91938,Rejected,H89565,Approved,FB31877,Approved,RB26076,Approved,Rejected,Dents,3
+A83091,24-10-2024,B65187,Rejected,H53392,Rejected,FB27372,Approved,RB31076,Rejected,Rejected,Structural Failure,5
+A60299,21-11-2024,B72051,Approved,H40266,Rejected,FB27101,Rejected,RB82929,Approved,Rejected,Incorrect Paint Job,2
+A33537,01-12-2024,B32951,Approved,H50250,Approved,FB51283,Approved,RB32163,Rejected,Rejected,Weld Marks,5
+A21659,24-10-2024,B56700,Approved,H77332,Approved,FB61839,Rejected,RB42195,Approved,Rejected,Dust Particles in Paint,4
+A36788,29-08-2024,B58279,Approved,H32804,Approved,FB52486,Approved,RB20069,Approved,Accepted,,2
+A43033,10-07-2024,B41652,Approved,H54406,Approved,FB11081,Rejected,RB17488,Approved,Rejected,Structural Failure,2
+A26354,04-12-2024,B64318,Approved,H60658,Approved,FB65408,Approved,RB94568,Approved,Accepted,,4
+A30832,03-08-2024,B20740,Approved,H59257,Approved,FB81922,Rejected,RB56285,Approved,Rejected,Incorrect Paint Job,5
+A43544,24-08-2024,B41529,Approved,H19051,Approved,FB70457,Rejected,RB85914,Approved,Rejected,Scratches,1
+A96626,06-07-2024,B60060,Approved,H50293,Approved,FB99812,Rejected,RB54750,Approved,Rejected,Incorrect Paint Job,4
+A45562,05-07-2024,B53676,Approved,H87472,Rejected,FB75984,Approved,RB88482,Rejected,Rejected,Structural Failure,1
+A43365,01-08-2024,B30811,Approved,H81352,Approved,FB40164,Approved,RB31755,Rejected,Rejected,Misalignment,2
+A31110,02-09-2024,B16864,Approved,H20928,Approved,FB99572,Approved,RB32333,Approved,Accepted,,2
+A24232,31-08-2024,B51986,Approved,H51399,Approved,FB64802,Approved,RB96858,Approved,Accepted,,2
+A86244,05-07-2024,B77709,Approved,H36036,Rejected,FB78149,Approved,RB12894,Approved,Rejected,Dents,4
+A14787,14-09-2024,B42027,Approved,H67359,Approved,FB98784,Approved,RB47577,Rejected,Rejected,Misalignment,5
+A29440,10-12-2024,B82488,Approved,H67764,Approved,FB42786,Approved,RB74473,Approved,Accepted,,4
+A81563,14-07-2024,B18551,Approved,H53533,Rejected,FB97004,Rejected,RB74226,Rejected,Rejected,Weld Marks,5
+A39892,15-09-2024,B59544,Approved,H98672,Rejected,FB46360,Approved,RB79055,Approved,Rejected,Dust Particles in Paint,1
+A18829,08-08-2024,B88812,Rejected,H73151,Approved,FB42761,Rejected,RB90363,Rejected,Rejected,Weld Marks,5
+A90263,06-12-2024,B83420,Approved,H90874,Approved,FB90672,Approved,RB51040,Approved,Accepted,,5
+A69152,05-09-2024,B66587,Approved,H44840,Approved,FB72644,Rejected,RB13855,Rejected,Rejected,Incorrect Paint Job,3
+A12559,06-08-2024,B29145,Approved,H92847,Rejected,FB20136,Approved,RB93190,Rejected,Rejected,Incorrect Paint Job,3
+A68587,10-07-2024,B34371,Approved,H40249,Approved,FB43374,Approved,RB99872,Rejected,Rejected,Misalignment,3
+A87833,20-07-2024,B46523,Approved,H35318,Rejected,FB24608,Approved,RB84486,Approved,Rejected,Dents,3
+A94244,28-09-2024,B81973,Approved,H41866,Rejected,FB43174,Approved,RB28132,Rejected,Rejected,Weld Marks,3
+A29949,22-10-2024,B69518,Rejected,H37734,Approved,FB44817,Rejected,RB86393,Rejected,Rejected,Dust Particles in Paint,5
+A84489,22-07-2024,B99284,Approved,H69666,Approved,FB74096,Approved,RB26230,Approved,Accepted,,4
+A18734,21-11-2024,B94492,Rejected,H44097,Approved,FB19914,Approved,RB71800,Rejected,Rejected,Misalignment,2
+A18662,13-11-2024,B19771,Rejected,H23127,Approved,FB22647,Approved,RB14382,Approved,Rejected,Dents,2
+A29140,10-09-2024,B71359,Rejected,H55717,Approved,FB55213,Rejected,RB83643,Approved,Rejected,Scratches,3
+A18481,29-12-2024,B89152,Rejected,H43967,Approved,FB22343,Approved,RB12057,Approved,Rejected,Dust Particles in Paint,3
+A68343,01-09-2024,B47488,Approved,H76928,Approved,FB60415,Approved,RB79391,Approved,Accepted,,1
+A12675,10-07-2024,B44793,Rejected,H76654,Approved,FB27908,Approved,RB40007,Approved,Rejected,Dents,4
+A69301,11-09-2024,B38931,Approved,H27406,Approved,FB46010,Rejected,RB89476,Rejected,Rejected,Dents,5
+A56750,02-10-2024,B28260,Approved,H89430,Approved,FB77146,Rejected,RB54720,Approved,Rejected,Weld Marks,4
+A75631,21-10-2024,B33382,Rejected,H78727,Rejected,FB42646,Rejected,RB45334,Approved,Rejected,Dents,5
+A46638,10-08-2024,B49821,Approved,H73982,Rejected,FB93152,Rejected,RB43720,Rejected,Rejected,Weld Marks,5
+A98424,26-09-2024,B97658,Approved,H37825,Approved,FB64463,Approved,RB91168,Rejected,Rejected,Misalignment,5
+A33650,10-09-2024,B61166,Approved,H50179,Approved,FB76020,Approved,RB53521,Approved,Accepted,,2
+A67005,31-07-2024,B44312,Rejected,H40545,Approved,FB41357,Approved,RB34025,Approved,Rejected,Weld Marks,3
+A35318,19-07-2024,B91270,Rejected,H19437,Approved,FB40122,Approved,RB52463,Approved,Rejected,Structural Failure,1
+A72362,11-08-2024,B37256,Rejected,H74280,Rejected,FB43530,Approved,RB63652,Rejected,Rejected,Dents,2
+A18425,06-09-2024,B50449,Rejected,H13179,Approved,FB23980,Approved,RB87380,Approved,Rejected,Dents,5
+A32689,18-12-2024,B80917,Approved,H88794,Approved,FB88871,Approved,RB67271,Approved,Accepted,,4
+A87616,28-08-2024,B24210,Rejected,H49593,Rejected,FB73517,Approved,RB52548,Approved,Rejected,Incorrect Paint Job,1
+A16218,29-09-2024,B14991,Rejected,H47408,Rejected,FB20106,Approved,RB94390,Approved,Rejected,Incorrect Paint Job,1
+A48848,22-08-2024,B17215,Rejected,H35730,Approved,FB74717,Approved,RB74371,Rejected,Rejected,Weld Marks,1
+A80659,20-12-2024,B23827,Approved,H90120,Approved,FB93684,Approved,RB21020,Rejected,Rejected,Incorrect Paint Job,4
+A82577,27-07-2024,B98064,Approved,H96573,Rejected,FB83159,Approved,RB92385,Approved,Rejected,Scratches,1
+A71537,16-07-2024,B89116,Rejected,H41553,Approved,FB28312,Rejected,RB88859,Rejected,Rejected,Dust Particles in Paint,5
+A75821,07-07-2024,B85884,Rejected,H25119,Approved,FB76057,Rejected,RB65306,Rejected,Rejected,Scratches,5
+A14724,09-07-2024,B96996,Rejected,H94683,Rejected,FB45206,Rejected,RB44468,Rejected,Rejected,Incorrect Paint Job,1
+A80455,26-07-2024,B54883,Approved,H72070,Approved,FB31550,Approved,RB38688,Approved,Accepted,,2
+A40248,28-09-2024,B30074,Rejected,H69758,Approved,FB14949,Approved,RB21798,Approved,Rejected,Dust Particles in Paint,4
+A18995,16-08-2024,B92587,Approved,H17233,Approved,FB11829,Approved,RB97309,Approved,Accepted,,3
+A30185,21-11-2024,B98595,Approved,H20429,Rejected,FB18653,Rejected,RB45775,Approved,Rejected,Weld Marks,1
+A39542,23-09-2024,B16060,Approved,H15128,Rejected,FB26517,Rejected,RB70773,Rejected,Rejected,Misalignment,3
+A59387,20-09-2024,B28070,Approved,H51979,Approved,FB29570,Rejected,RB20681,Approved,Rejected,Weld Marks,4
+A34721,29-10-2024,B39368,Approved,H47643,Approved,FB34938,Rejected,RB49314,Rejected,Rejected,Dents,4
+A63229,31-12-2024,B79617,Rejected,H47978,Approved,FB61131,Rejected,RB87900,Approved,Rejected,Dents,2
+A55483,26-08-2024,B68770,Rejected,H44891,Approved,FB47924,Approved,RB79312,Approved,Rejected,Scratches,4
+A34401,27-10-2024,B41698,Approved,H84486,Approved,FB17321,Approved,RB65922,Rejected,Rejected,Misalignment,2
+A99382,04-11-2024,B24154,Approved,H77921,Rejected,FB24761,Approved,RB84470,Rejected,Rejected,Incorrect Paint Job,5
+A74765,23-09-2024,B48711,Approved,H13792,Approved,FB64703,Rejected,RB77616,Approved,Rejected,Structural Failure,4
+A92785,03-08-2024,B39721,Approved,H87908,Approved,FB78262,Rejected,RB72830,Approved,Rejected,Incorrect Paint Job,4
+A32228,16-09-2024,B90507,Rejected,H80784,Rejected,FB15585,Approved,RB68920,Approved,Rejected,Misalignment,2
+A48780,06-07-2024,B62585,Approved,H26815,Approved,FB48962,Rejected,RB64930,Rejected,Rejected,Weld Marks,4
+A35506,29-08-2024,B36170,Rejected,H91664,Rejected,FB59341,Approved,RB39397,Approved,Rejected,Incorrect Paint Job,4
+A46237,06-11-2024,B21638,Approved,H90756,Approved,FB80603,Approved,RB34419,Approved,Accepted,,1
+A16208,12-09-2024,B76304,Approved,H53312,Approved,FB73331,Approved,RB24543,Approved,Accepted,,5
+A94286,31-10-2024,B27316,Rejected,H55651,Rejected,FB84979,Approved,RB74579,Approved,Rejected,Scratches,2
+A81798,06-10-2024,B90070,Rejected,H75362,Approved,FB69624,Rejected,RB57468,Rejected,Rejected,Dust Particles in Paint,1
+A57498,22-10-2024,B94179,Rejected,H14253,Approved,FB28298,Approved,RB82756,Rejected,Rejected,Weld Marks,2
+A45362,23-09-2024,B81803,Approved,H82100,Approved,FB80656,Approved,RB77889,Approved,Accepted,,4
+A36922,08-11-2024,B56601,Approved,H77228,Approved,FB22549,Rejected,RB41266,Approved,Rejected,Dust Particles in Paint,4
+A47355,17-10-2024,B14159,Rejected,H25064,Approved,FB80976,Rejected,RB26945,Approved,Rejected,Dents,4
+A28411,13-12-2024,B88765,Approved,H22781,Rejected,FB90268,Approved,RB79290,Approved,Rejected,Scratches,1
+A81995,09-10-2024,B64151,Approved,H31171,Approved,FB70177,Approved,RB49321,Approved,Accepted,,5
+A94923,06-08-2024,B13266,Rejected,H62984,Approved,FB76956,Approved,RB64340,Approved,Rejected,Structural Failure,4
+A62988,01-11-2024,B25225,Rejected,H22803,Approved,FB68413,Approved,RB97242,Rejected,Rejected,Weld Marks,5
+A35171,12-09-2024,B74980,Approved,H16836,Rejected,FB59445,Approved,RB36618,Rejected,Rejected,Incorrect Paint Job,2
+A97840,24-11-2024,B37966,Approved,H73633,Rejected,FB51975,Approved,RB91765,Approved,Rejected,Structural Failure,5
+A33800,10-09-2024,B42323,Approved,H54636,Rejected,FB61365,Rejected,RB16262,Approved,Rejected,Scratches,4
+A34628,10-12-2024,B30834,Approved,H22119,Approved,FB30936,Rejected,RB59442,Approved,Rejected,Misalignment,4
+A75363,23-08-2024,B62521,Rejected,H49986,Rejected,FB50789,Approved,RB44817,Rejected,Rejected,Dents,1
+A41297,26-07-2024,B26887,Rejected,H83722,Rejected,FB89284,Rejected,RB66317,Rejected,Rejected,Scratches,1
+A50515,20-10-2024,B98834,Approved,H14329,Approved,FB72094,Rejected,RB96974,Approved,Rejected,Dust Particles in Paint,1
+A67343,03-08-2024,B65216,Approved,H92539,Approved,FB49542,Approved,RB69827,Approved,Accepted,,3
+A59945,13-08-2024,B82094,Approved,H59130,Rejected,FB44220,Approved,RB87336,Approved,Rejected,Scratches,5
+A88719,22-09-2024,B45242,Approved,H68950,Approved,FB54811,Approved,RB76642,Approved,Accepted,,2
+A30022,26-09-2024,B19993,Approved,H10760,Approved,FB65681,Approved,RB29223,Approved,Accepted,,1
+A69883,07-11-2024,B13064,Rejected,H35504,Approved,FB23011,Approved,RB20987,Rejected,Rejected,Misalignment,1
+A17972,24-08-2024,B43175,Rejected,H87531,Rejected,FB55643,Rejected,RB61676,Approved,Rejected,Misalignment,4
+A10619,04-11-2024,B52366,Rejected,H19109,Approved,FB21593,Approved,RB51038,Approved,Rejected,Structural Failure,5
+A99285,13-11-2024,B89827,Rejected,H13910,Approved,FB34329,Approved,RB49681,Approved,Rejected,Incorrect Paint Job,2
+A83304,01-08-2024,B23306,Approved,H41520,Approved,FB58038,Approved,RB95941,Approved,Accepted,,5
+A63264,14-09-2024,B88979,Rejected,H58787,Approved,FB77913,Rejected,RB64508,Rejected,Rejected,Scratches,3
+A71613,18-09-2024,B20690,Approved,H44114,Approved,FB60772,Approved,RB51937,Approved,Accepted,,4
+A26156,21-08-2024,B64036,Approved,H58015,Approved,FB76394,Approved,RB72252,Rejected,Rejected,Dents,4
+A70511,21-10-2024,B17598,Approved,H78394,Rejected,FB71038,Approved,RB86198,Approved,Rejected,Misalignment,2
+A12510,21-10-2024,B49460,Approved,H67724,Rejected,FB16937,Approved,RB92559,Rejected,Rejected,Weld Marks,3
+A74048,19-12-2024,B58998,Rejected,H95321,Rejected,FB95647,Approved,RB46769,Approved,Rejected,Weld Marks,5
+A79981,12-11-2024,B58912,Approved,H95517,Rejected,FB86671,Approved,RB33418,Approved,Rejected,Weld Marks,3
+A57453,08-11-2024,B48663,Rejected,H94857,Rejected,FB93738,Approved,RB59924,Approved,Rejected,Weld Marks,5
+A70176,27-12-2024,B54289,Approved,H15094,Approved,FB68924,Approved,RB33286,Approved,Accepted,,3
+A49311,09-07-2024,B16818,Rejected,H31991,Approved,FB36353,Rejected,RB63088,Rejected,Rejected,Scratches,3
+A65899,17-12-2024,B36943,Approved,H66221,Approved,FB60098,Approved,RB13100,Approved,Accepted,,4
+A61640,18-10-2024,B84039,Approved,H75930,Approved,FB25557,Rejected,RB30091,Approved,Rejected,Scratches,4
+A82902,29-10-2024,B86791,Rejected,H98542,Approved,FB42173,Approved,RB90900,Rejected,Rejected,Incorrect Paint Job,2
+A82463,31-08-2024,B86105,Rejected,H32538,Approved,FB47303,Rejected,RB77397,Approved,Rejected,Scratches,5
+A39073,10-09-2024,B12537,Approved,H26371,Rejected,FB10169,Rejected,RB83621,Approved,Rejected,Dents,4
+A49402,22-10-2024,B79291,Approved,H13349,Approved,FB59986,Approved,RB65199,Approved,Accepted,,5
+A61990,15-07-2024,B92179,Rejected,H38093,Approved,FB91684,Approved,RB82960,Approved,Rejected,Incorrect Paint Job,2
+A55649,24-08-2024,B10496,Approved,H37168,Approved,FB43963,Rejected,RB85152,Approved,Rejected,Weld Marks,3
+A49228,23-09-2024,B54065,Approved,H90708,Approved,FB84817,Approved,RB25712,Approved,Accepted,,4
+A40038,12-10-2024,B45051,Rejected,H79509,Approved,FB78827,Approved,RB41564,Approved,Rejected,Weld Marks,5
+A10773,21-08-2024,B17264,Approved,H72803,Approved,FB26142,Approved,RB28729,Approved,Accepted,,2
+A68303,02-09-2024,B47323,Approved,H55815,Rejected,FB66799,Approved,RB22294,Approved,Rejected,Misalignment,4
+A90469,27-11-2024,B22835,Approved,H57930,Rejected,FB89899,Rejected,RB89341,Approved,Rejected,Scratches,5
+A73406,28-07-2024,B41515,Approved,H28647,Rejected,FB38562,Approved,RB77266,Rejected,Rejected,Dents,5
+A27796,16-10-2024,B64384,Rejected,H68790,Approved,FB51504,Approved,RB57090,Approved,Rejected,Misalignment,2
+A36921,20-09-2024,B95496,Approved,H25714,Approved,FB25265,Approved,RB39950,Rejected,Rejected,Scratches,1
+A31430,12-09-2024,B69498,Approved,H78412,Rejected,FB76446,Approved,RB78834,Approved,Rejected,Incorrect Paint Job,5
+A61341,29-08-2024,B50204,Approved,H89349,Rejected,FB80111,Approved,RB60254,Rejected,Rejected,Dust Particles in Paint,4
+A33662,03-07-2024,B52700,Rejected,H61671,Approved,FB40630,Approved,RB98247,Rejected,Rejected,Dust Particles in Paint,3
+A64383,30-12-2024,B98197,Approved,H47616,Approved,FB19405,Approved,RB91287,Approved,Accepted,,5
+A89114,14-09-2024,B90682,Approved,H49780,Approved,FB36201,Approved,RB94640,Approved,Accepted,,2
+A10249,23-09-2024,B52315,Rejected,H41253,Rejected,FB77093,Approved,RB72141,Rejected,Rejected,Incorrect Paint Job,2
+A13707,08-08-2024,B21294,Rejected,H88346,Approved,FB18870,Rejected,RB99657,Rejected,Rejected,Structural Failure,1
+A38295,01-11-2024,B81705,Approved,H88577,Rejected,FB68620,Approved,RB96082,Approved,Rejected,Incorrect Paint Job,3
+A79545,04-09-2024,B87234,Approved,H48614,Approved,FB57081,Rejected,RB42428,Approved,Rejected,Structural Failure,4
+A18665,19-09-2024,B41214,Approved,H83969,Approved,FB29451,Approved,RB73110,Approved,Accepted,,4
+A32795,15-11-2024,B55516,Approved,H60392,Rejected,FB92967,Approved,RB55813,Rejected,Rejected,Dust Particles in Paint,1
+A52805,06-12-2024,B88713,Approved,H36102,Rejected,FB57457,Rejected,RB48760,Rejected,Rejected,Scratches,3
+A99534,01-12-2024,B39060,Rejected,H66878,Rejected,FB26874,Approved,RB70479,Approved,Rejected,Misalignment,1
+A83244,15-07-2024,B49755,Approved,H82267,Approved,FB37951,Rejected,RB11838,Approved,Rejected,Weld Marks,3
+A16525,02-07-2024,B95137,Rejected,H46508,Approved,FB65551,Approved,RB77201,Approved,Rejected,Incorrect Paint Job,3
+A53008,17-07-2024,B57324,Approved,H36405,Rejected,FB24185,Approved,RB33671,Rejected,Rejected,Weld Marks,5
+A90283,01-11-2024,B87254,Rejected,H17516,Approved,FB93098,Approved,RB45541,Approved,Rejected,Structural Failure,4
+A75252,15-08-2024,B32726,Approved,H52562,Approved,FB24798,Rejected,RB68688,Approved,Rejected,Dust Particles in Paint,4
+A61406,27-10-2024,B59491,Rejected,H13037,Rejected,FB66198,Rejected,RB65023,Approved,Rejected,Misalignment,3
+A34354,04-10-2024,B67667,Rejected,H85449,Approved,FB81138,Approved,RB61068,Approved,Rejected,Incorrect Paint Job,5
+A37795,20-12-2024,B59793,Approved,H38533,Approved,FB77202,Approved,RB69820,Approved,Accepted,,5
+A60166,19-12-2024,B79630,Approved,H37085,Approved,FB23015,Approved,RB91285,Approved,Accepted,,5
+A59420,11-12-2024,B48635,Approved,H40917,Approved,FB90304,Approved,RB41876,Rejected,Rejected,Scratches,1
+A18336,06-11-2024,B36105,Rejected,H12787,Approved,FB54714,Approved,RB83062,Approved,Rejected,Misalignment,4
+A48676,17-11-2024,B16056,Approved,H67587,Approved,FB64268,Approved,RB20218,Rejected,Rejected,Incorrect Paint Job,3
+A85274,12-09-2024,B10457,Rejected,H28126,Rejected,FB17260,Approved,RB86139,Approved,Rejected,Dust Particles in Paint,1
+A87742,04-10-2024,B93552,Approved,H82826,Approved,FB58591,Rejected,RB37022,Approved,Rejected,Scratches,4
+A94215,04-08-2024,B66050,Approved,H45249,Approved,FB68912,Approved,RB21992,Rejected,Rejected,Incorrect Paint Job,1
+A95043,05-10-2024,B28257,Approved,H25817,Approved,FB76544,Approved,RB81764,Approved,Accepted,,4
+A97780,07-10-2024,B46244,Rejected,H70250,Rejected,FB54138,Rejected,RB51951,Rejected,Rejected,Dents,5
+A70308,09-10-2024,B52009,Approved,H18115,Rejected,FB14565,Approved,RB91430,Rejected,Rejected,Dents,3
+A74233,12-11-2024,B77352,Approved,H90202,Approved,FB25600,Approved,RB25968,Rejected,Rejected,Scratches,4
+A26408,07-09-2024,B10451,Approved,H63529,Approved,FB36268,Approved,RB64735,Rejected,Rejected,Scratches,3
+A34788,22-12-2024,B59861,Rejected,H77264,Approved,FB92429,Approved,RB36385,Rejected,Rejected,Scratches,5
+A94926,04-12-2024,B79391,Approved,H16673,Approved,FB86488,Approved,RB64380,Approved,Accepted,,4
+A86501,12-07-2024,B51080,Approved,H67719,Rejected,FB19096,Approved,RB30956,Rejected,Rejected,Incorrect Paint Job,5
+A35642,07-12-2024,B62745,Approved,H88023,Approved,FB40653,Approved,RB40839,Rejected,Rejected,Dust Particles in Paint,4
+A73102,18-09-2024,B58136,Rejected,H32107,Approved,FB66133,Approved,RB32497,Rejected,Rejected,Misalignment,5
+A33107,27-07-2024,B81889,Rejected,H57151,Approved,FB87886,Approved,RB99958,Approved,Rejected,Incorrect Paint Job,2
+A38853,04-12-2024,B85855,Approved,H53347,Approved,FB66283,Approved,RB91527,Rejected,Rejected,Misalignment,1
+A60151,18-10-2024,B10067,Rejected,H35257,Approved,FB12330,Rejected,RB15332,Rejected,Rejected,Incorrect Paint Job,3
+A34670,30-10-2024,B97507,Rejected,H21719,Rejected,FB53107,Rejected,RB65200,Approved,Rejected,Weld Marks,1
+A58507,19-12-2024,B44782,Approved,H40873,Approved,FB51735,Rejected,RB25791,Rejected,Rejected,Structural Failure,3
+A26421,21-10-2024,B39570,Rejected,H49888,Approved,FB31578,Rejected,RB13830,Approved,Rejected,Dust Particles in Paint,4
+A45880,25-09-2024,B28187,Approved,H31116,Rejected,FB64075,Approved,RB42710,Rejected,Rejected,Scratches,2
+A23189,30-10-2024,B93897,Rejected,H24557,Approved,FB17902,Approved,RB76453,Rejected,Rejected,Incorrect Paint Job,5
+A17129,29-11-2024,B17403,Approved,H63446,Rejected,FB44754,Approved,RB23434,Approved,Rejected,Scratches,2
+A63600,07-11-2024,B17435,Approved,H55717,Approved,FB42532,Approved,RB36339,Approved,Accepted,,1
+A98532,09-11-2024,B28278,Rejected,H60486,Rejected,FB24111,Rejected,RB89342,Approved,Rejected,Misalignment,2
+A14178,08-07-2024,B77291,Approved,H91171,Rejected,FB46319,Rejected,RB18478,Approved,Rejected,Scratches,4
+A91596,20-07-2024,B46420,Rejected,H28775,Approved,FB19315,Approved,RB11836,Rejected,Rejected,Dust Particles in Paint,4
+A86126,04-10-2024,B54787,Approved,H79038,Rejected,FB16496,Approved,RB92662,Rejected,Rejected,Dents,5
+A56725,11-09-2024,B82528,Approved,H88876,Rejected,FB15345,Approved,RB69861,Approved,Rejected,Scratches,4
+A40668,17-08-2024,B33097,Approved,H44899,Approved,FB34548,Approved,RB98568,Rejected,Rejected,Misalignment,4
+A41537,14-12-2024,B68542,Rejected,H68003,Approved,FB49496,Approved,RB51479,Approved,Rejected,Scratches,1
+A41021,21-08-2024,B15245,Rejected,H42437,Approved,FB87011,Approved,RB66915,Approved,Rejected,Misalignment,5
+A81528,15-09-2024,B28891,Rejected,H85077,Approved,FB78714,Rejected,RB82612,Rejected,Rejected,Structural Failure,1
+A71919,26-07-2024,B51501,Approved,H10193,Rejected,FB47470,Rejected,RB77790,Approved,Rejected,Dust Particles in Paint,3
+A12995,24-08-2024,B98214,Approved,H96861,Approved,FB18359,Approved,RB62386,Rejected,Rejected,Misalignment,5
+A56772,15-08-2024,B78003,Rejected,H10292,Rejected,FB63181,Approved,RB58468,Rejected,Rejected,Scratches,1
+A31301,02-11-2024,B59300,Rejected,H24893,Rejected,FB75987,Approved,RB22818,Approved,Rejected,Scratches,1
+A53943,06-12-2024,B43516,Approved,H84355,Approved,FB66552,Approved,RB62640,Approved,Accepted,,2
+A96799,03-07-2024,B90057,Approved,H15326,Approved,FB90143,Approved,RB18408,Approved,Accepted,,3
+A55616,28-11-2024,B24279,Approved,H87581,Approved,FB85895,Approved,RB56204,Rejected,Rejected,Weld Marks,4
+A14846,08-09-2024,B97665,Rejected,H19265,Rejected,FB38866,Rejected,RB26046,Approved,Rejected,Misalignment,4
+A15167,14-09-2024,B23918,Rejected,H75688,Rejected,FB53676,Rejected,RB54122,Approved,Rejected,Misalignment,4
+A18862,28-08-2024,B31031,Approved,H23977,Approved,FB79593,Approved,RB23945,Approved,Accepted,,2
+A75381,12-12-2024,B11585,Approved,H59253,Approved,FB36769,Approved,RB96856,Approved,Accepted,,3
+A45233,03-11-2024,B60155,Approved,H12604,Rejected,FB24384,Approved,RB56704,Approved,Rejected,Dents,5
+A40047,11-11-2024,B57268,Rejected,H14325,Approved,FB31971,Rejected,RB80715,Approved,Rejected,Incorrect Paint Job,1
+A97020,05-09-2024,B94951,Approved,H47789,Approved,FB54088,Rejected,RB26658,Approved,Rejected,Incorrect Paint Job,5
+A35594,13-07-2024,B70166,Rejected,H13620,Approved,FB78731,Rejected,RB88720,Rejected,Rejected,Structural Failure,1
+A27916,13-10-2024,B94807,Rejected,H33152,Rejected,FB48019,Approved,RB28804,Rejected,Rejected,Dust Particles in Paint,1
+A82524,30-12-2024,B35416,Approved,H82235,Approved,FB99374,Approved,RB63537,Approved,Accepted,,1
+A51951,30-11-2024,B18361,Approved,H70000,Approved,FB66339,Approved,RB91528,Rejected,Rejected,Dents,1
+A84091,05-11-2024,B62997,Rejected,H31991,Rejected,FB99981,Approved,RB68194,Rejected,Rejected,Dust Particles in Paint,4
+A46370,23-11-2024,B51817,Approved,H89044,Rejected,FB51627,Approved,RB50451,Approved,Rejected,Weld Marks,1
+A16732,18-12-2024,B79966,Approved,H67897,Approved,FB76210,Approved,RB47683,Approved,Accepted,,3
+A84702,18-12-2024,B15287,Approved,H74052,Approved,FB34678,Approved,RB98169,Approved,Accepted,,1
+A19491,20-12-2024,B95008,Approved,H44727,Approved,FB48843,Rejected,RB34074,Approved,Rejected,Dust Particles in Paint,1
+A69737,03-10-2024,B81076,Rejected,H79395,Approved,FB79262,Rejected,RB59704,Rejected,Rejected,Incorrect Paint Job,1
+A67260,27-12-2024,B74757,Approved,H24733,Rejected,FB15554,Approved,RB52094,Approved,Rejected,Weld Marks,1
+A49655,08-08-2024,B69712,Approved,H68109,Rejected,FB50692,Approved,RB60568,Approved,Rejected,Scratches,4
+A41317,22-10-2024,B44077,Rejected,H76053,Approved,FB14951,Rejected,RB76250,Rejected,Rejected,Weld Marks,1
+A24137,01-09-2024,B89764,Approved,H35792,Approved,FB49620,Approved,RB84435,Approved,Accepted,,5
+A71553,07-07-2024,B90801,Rejected,H76656,Rejected,FB33389,Rejected,RB88499,Approved,Rejected,Structural Failure,2
+A64007,28-12-2024,B59118,Approved,H41083,Approved,FB95059,Approved,RB59714,Approved,Accepted,,2
+A34888,07-07-2024,B39368,Approved,H15571,Approved,FB72136,Rejected,RB22150,Rejected,Rejected,Structural Failure,3
+A37283,13-09-2024,B19864,Approved,H87231,Rejected,FB23074,Approved,RB90848,Approved,Rejected,Dust Particles in Paint,5
+A90819,23-08-2024,B55801,Approved,H17748,Rejected,FB59214,Approved,RB78618,Approved,Rejected,Dust Particles in Paint,4
+A43511,09-11-2024,B43770,Rejected,H91670,Rejected,FB38802,Approved,RB44205,Approved,Rejected,Misalignment,1
+A91869,10-10-2024,B53204,Rejected,H89750,Approved,FB26254,Approved,RB34103,Rejected,Rejected,Weld Marks,1
+A76811,17-09-2024,B87585,Approved,H89442,Approved,FB18529,Approved,RB66652,Approved,Accepted,,1
+A57112,09-07-2024,B78353,Approved,H90285,Approved,FB15063,Approved,RB76597,Rejected,Rejected,Structural Failure,1
+A16709,19-11-2024,B42907,Approved,H67877,Approved,FB68742,Approved,RB70998,Rejected,Rejected,Structural Failure,5
+A27051,27-08-2024,B18404,Approved,H11298,Approved,FB71182,Approved,RB26089,Approved,Accepted,,2
+A59688,12-08-2024,B11633,Approved,H93840,Approved,FB17029,Approved,RB74449,Rejected,Rejected,Dust Particles in Paint,1
+A39873,24-09-2024,B16448,Approved,H86582,Approved,FB80118,Approved,RB49389,Rejected,Rejected,Dents,2
+A70343,26-09-2024,B31122,Approved,H36407,Approved,FB77787,Rejected,RB99066,Approved,Rejected,Weld Marks,2
+A49631,27-09-2024,B12079,Approved,H11281,Approved,FB94821,Rejected,RB53698,Approved,Rejected,Dust Particles in Paint,1
+A23367,11-09-2024,B23353,Rejected,H78653,Rejected,FB41229,Approved,RB83676,Approved,Rejected,Dust Particles in Paint,4
+A68003,31-10-2024,B34564,Rejected,H94478,Rejected,FB88962,Approved,RB68507,Rejected,Rejected,Scratches,2
+A30278,18-09-2024,B68290,Rejected,H24836,Approved,FB20062,Approved,RB71295,Approved,Rejected,Incorrect Paint Job,3
+A67945,14-11-2024,B21887,Approved,H32083,Rejected,FB97794,Rejected,RB72007,Rejected,Rejected,Structural Failure,2
+A84668,18-09-2024,B50822,Approved,H23041,Approved,FB89156,Approved,RB66732,Approved,Accepted,,4
+A56528,07-11-2024,B53281,Approved,H13926,Approved,FB10815,Approved,RB74721,Rejected,Rejected,Misalignment,3
+A89079,17-07-2024,B21084,Approved,H33295,Approved,FB37634,Approved,RB87499,Approved,Accepted,,2
+A58556,18-09-2024,B16622,Approved,H23526,Rejected,FB87214,Approved,RB25951,Approved,Rejected,Weld Marks,2
+A14446,15-10-2024,B40448,Rejected,H88104,Approved,FB38509,Approved,RB45299,Rejected,Rejected,Incorrect Paint Job,2
+A98934,23-07-2024,B83990,Rejected,H16649,Approved,FB24737,Approved,RB22317,Rejected,Rejected,Scratches,2
+A93146,21-08-2024,B45641,Rejected,H79226,Approved,FB93297,Rejected,RB52631,Approved,Rejected,Weld Marks,5
+A52472,18-11-2024,B66744,Approved,H78314,Rejected,FB29401,Approved,RB38642,Approved,Rejected,Structural Failure,5
+A66422,25-08-2024,B33055,Approved,H79427,Rejected,FB76569,Rejected,RB47942,Approved,Rejected,Incorrect Paint Job,2
+A29403,26-08-2024,B98867,Rejected,H48021,Rejected,FB25351,Rejected,RB25690,Approved,Rejected,Incorrect Paint Job,1
+A73393,12-11-2024,B16362,Approved,H86657,Rejected,FB70025,Rejected,RB11159,Approved,Rejected,Incorrect Paint Job,2
+A67102,01-08-2024,B75645,Approved,H13375,Approved,FB42725,Approved,RB33371,Approved,Accepted,,3
+A23812,02-07-2024,B63365,Rejected,H79779,Approved,FB37631,Approved,RB79670,Rejected,Rejected,Dents,3
+A26915,29-09-2024,B11107,Rejected,H89779,Approved,FB83470,Rejected,RB42520,Approved,Rejected,Misalignment,5
+A10611,09-09-2024,B92580,Approved,H57640,Approved,FB13702,Approved,RB15906,Approved,Accepted,,2
+A60177,08-07-2024,B40783,Approved,H28258,Approved,FB23537,Approved,RB43883,Approved,Accepted,,5
+A65552,25-12-2024,B66120,Rejected,H75411,Approved,FB44866,Approved,RB83515,Approved,Rejected,Dents,3
+A95071,26-12-2024,B76850,Approved,H79266,Approved,FB73497,Approved,RB99723,Approved,Accepted,,4
+A40361,07-11-2024,B46810,Approved,H12945,Approved,FB94628,Approved,RB48047,Approved,Accepted,,3
+A13134,10-11-2024,B83537,Approved,H15249,Approved,FB94315,Approved,RB70050,Approved,Accepted,,3
+A87146,29-08-2024,B39982,Approved,H84541,Rejected,FB82832,Rejected,RB53259,Rejected,Rejected,Weld Marks,3
+A46633,22-12-2024,B55478,Approved,H57606,Approved,FB55044,Approved,RB34034,Approved,Accepted,,2
+A16358,07-07-2024,B83432,Rejected,H15443,Approved,FB78260,Approved,RB80685,Approved,Rejected,Misalignment,5
+A72637,06-12-2024,B62195,Approved,H43504,Approved,FB33564,Approved,RB86356,Approved,Accepted,,5
+A23164,13-12-2024,B95815,Approved,H53008,Approved,FB54044,Rejected,RB54360,Approved,Rejected,Incorrect Paint Job,2
+A60938,22-12-2024,B56920,Approved,H56757,Rejected,FB73328,Approved,RB33765,Rejected,Rejected,Scratches,5
+A58765,15-09-2024,B72968,Approved,H24425,Approved,FB48515,Approved,RB96736,Approved,Accepted,,2
+A60776,11-11-2024,B96403,Rejected,H93426,Approved,FB89134,Approved,RB68609,Approved,Rejected,Misalignment,5
+A84146,16-09-2024,B89693,Rejected,H45671,Rejected,FB83794,Rejected,RB18824,Approved,Rejected,Misalignment,4
+A91950,26-07-2024,B18148,Approved,H87525,Approved,FB45088,Approved,RB58528,Approved,Accepted,,3
+A36297,06-08-2024,B25684,Approved,H37383,Approved,FB99857,Rejected,RB25151,Rejected,Rejected,Structural Failure,4
+A77526,25-07-2024,B39561,Approved,H14094,Rejected,FB53098,Approved,RB38057,Approved,Rejected,Scratches,5
+A63211,19-08-2024,B24832,Rejected,H31536,Approved,FB90558,Approved,RB38328,Approved,Rejected,Scratches,2
+A23660,18-12-2024,B35875,Approved,H92880,Approved,FB60501,Rejected,RB69020,Approved,Rejected,Misalignment,1
+A52752,11-09-2024,B87918,Approved,H99040,Rejected,FB76337,Rejected,RB68313,Rejected,Rejected,Scratches,5
+A51157,20-09-2024,B13338,Rejected,H32042,Rejected,FB67801,Approved,RB76504,Approved,Rejected,Dents,2
+A60115,16-11-2024,B79847,Approved,H92147,Rejected,FB90583,Approved,RB69681,Approved,Rejected,Dents,2
+A22070,07-07-2024,B66595,Rejected,H32657,Rejected,FB95670,Approved,RB46605,Rejected,Rejected,Dents,1
+A84779,30-09-2024,B75032,Approved,H96175,Approved,FB86938,Approved,RB30380,Approved,Accepted,,3
+A56897,12-07-2024,B81074,Approved,H46158,Rejected,FB96535,Approved,RB13681,Approved,Rejected,Scratches,5
+A54720,30-11-2024,B62694,Approved,H67883,Approved,FB36829,Rejected,RB23427,Approved,Rejected,Incorrect Paint Job,1
+A23892,05-09-2024,B55185,Approved,H27325,Approved,FB39331,Approved,RB77179,Approved,Accepted,,2
+A25171,13-10-2024,B86370,Approved,H46083,Rejected,FB17546,Approved,RB78432,Approved,Rejected,Structural Failure,5
+A58591,28-12-2024,B91453,Rejected,H30609,Approved,FB23767,Approved,RB78841,Approved,Rejected,Scratches,5
+A54610,09-10-2024,B77430,Approved,H73772,Rejected,FB41470,Rejected,RB76414,Rejected,Rejected,Scratches,1
+A71655,12-09-2024,B46207,Rejected,H64979,Approved,FB44110,Approved,RB53792,Approved,Rejected,Dents,3
+A52473,28-07-2024,B71964,Rejected,H57305,Rejected,FB86849,Approved,RB93748,Approved,Rejected,Weld Marks,3
+A69716,24-12-2024,B81554,Approved,H46481,Rejected,FB44426,Approved,RB22026,Approved,Rejected,Incorrect Paint Job,3
+A20722,31-12-2024,B35559,Rejected,H99930,Rejected,FB63760,Approved,RB62076,Approved,Rejected,Structural Failure,5
+A46642,23-07-2024,B12099,Rejected,H25755,Approved,FB84196,Rejected,RB94994,Approved,Rejected,Structural Failure,2
+A85087,24-11-2024,B66620,Approved,H77685,Approved,FB71504,Approved,RB14872,Rejected,Rejected,Dust Particles in Paint,3
+A33196,24-08-2024,B78215,Approved,H73085,Rejected,FB97615,Approved,RB83589,Approved,Rejected,Incorrect Paint Job,4
+A18890,07-11-2024,B96855,Rejected,H51606,Approved,FB52614,Approved,RB87305,Rejected,Rejected,Scratches,2
+A31890,14-07-2024,B97156,Approved,H35383,Approved,FB50531,Approved,RB10782,Approved,Accepted,,3
+A64943,18-07-2024,B95845,Approved,H31901,Approved,FB81907,Approved,RB98736,Approved,Accepted,,5
+A39192,19-08-2024,B54000,Approved,H88865,Approved,FB45308,Approved,RB99477,Approved,Accepted,,1
+A10295,28-11-2024,B89401,Approved,H77234,Rejected,FB19334,Approved,RB64281,Approved,Rejected,Weld Marks,2
+A33163,18-12-2024,B57551,Approved,H88078,Approved,FB94741,Approved,RB98909,Approved,Accepted,,3
+A86826,26-07-2024,B75011,Approved,H47165,Approved,FB26450,Approved,RB50936,Approved,Accepted,,1
+A21844,27-11-2024,B80499,Approved,H73197,Approved,FB90497,Approved,RB35958,Approved,Accepted,,4
+A46315,06-12-2024,B61208,Approved,H74813,Approved,FB37115,Approved,RB14546,Approved,Accepted,,5
+A26379,19-11-2024,B77219,Approved,H81288,Approved,FB15062,Approved,RB23601,Approved,Accepted,,5
+A29106,20-12-2024,B80349,Rejected,H49170,Approved,FB44884,Rejected,RB49037,Rejected,Rejected,Dust Particles in Paint,3
+A10768,06-09-2024,B11058,Approved,H99019,Approved,FB26066,Approved,RB31465,Approved,Accepted,,1
+A22887,23-11-2024,B39667,Approved,H39433,Approved,FB23540,Approved,RB83626,Approved,Accepted,,2
+A17965,19-08-2024,B91426,Approved,H79176,Approved,FB74552,Approved,RB67479,Rejected,Rejected,Structural Failure,5
+A80162,04-12-2024,B14662,Rejected,H79521,Rejected,FB40793,Approved,RB47261,Rejected,Rejected,Dust Particles in Paint,4
+A20039,02-09-2024,B59753,Rejected,H42549,Approved,FB81771,Rejected,RB70471,Rejected,Rejected,Scratches,4
+A80687,04-12-2024,B25026,Rejected,H16901,Approved,FB68744,Approved,RB68118,Approved,Rejected,Dust Particles in Paint,2
+A43173,13-08-2024,B55991,Rejected,H72733,Rejected,FB84924,Rejected,RB25521,Approved,Rejected,Weld Marks,4
+A18052,02-07-2024,B37044,Approved,H88496,Approved,FB14448,Rejected,RB71061,Approved,Rejected,Structural Failure,5
+A59888,21-11-2024,B32358,Approved,H63242,Approved,FB15791,Approved,RB98893,Approved,Accepted,,1
+A73276,06-11-2024,B26510,Approved,H61118,Approved,FB50178,Approved,RB24643,Approved,Accepted,,3
+A21514,22-11-2024,B31511,Approved,H46828,Approved,FB29112,Approved,RB16473,Approved,Accepted,,3
+A66200,14-09-2024,B71994,Rejected,H17695,Rejected,FB23437,Approved,RB64443,Approved,Rejected,Misalignment,4
+A95112,12-11-2024,B17041,Approved,H66514,Approved,FB90926,Rejected,RB95372,Approved,Rejected,Scratches,5
+A17224,19-12-2024,B11504,Approved,H60927,Approved,FB90403,Approved,RB66681,Approved,Accepted,,2
+A36375,30-08-2024,B24227,Rejected,H10999,Rejected,FB43900,Approved,RB78213,Approved,Rejected,Misalignment,2
+A57154,13-07-2024,B36919,Rejected,H26620,Rejected,FB50322,Approved,RB43116,Approved,Rejected,Incorrect Paint Job,4
+A26096,24-07-2024,B68400,Approved,H19097,Approved,FB80938,Approved,RB48889,Approved,Accepted,,4
+A15958,04-08-2024,B93631,Approved,H40426,Rejected,FB90269,Approved,RB30067,Rejected,Rejected,Weld Marks,5
+A26860,27-09-2024,B37473,Approved,H95044,Approved,FB99620,Approved,RB63270,Approved,Accepted,,4
+A95225,14-11-2024,B86939,Approved,H33319,Rejected,FB94412,Rejected,RB93647,Rejected,Rejected,Weld Marks,3
+A97136,17-08-2024,B10127,Approved,H10700,Approved,FB14534,Approved,RB14666,Approved,Accepted,,2
+A92783,31-12-2024,B45264,Approved,H88662,Rejected,FB55114,Approved,RB21730,Approved,Rejected,Structural Failure,1
+A86487,02-10-2024,B47705,Rejected,H47768,Rejected,FB93955,Approved,RB80095,Approved,Rejected,Weld Marks,1
+A91543,08-10-2024,B38177,Rejected,H15179,Approved,FB67378,Rejected,RB44014,Rejected,Rejected,Weld Marks,1
+A13263,05-08-2024,B92516,Approved,H87909,Approved,FB31814,Approved,RB98157,Approved,Accepted,,5
+A56200,03-08-2024,B71132,Approved,H33507,Approved,FB13614,Rejected,RB42680,Approved,Rejected,Incorrect Paint Job,5
+A96959,03-09-2024,B78429,Approved,H97198,Approved,FB58643,Approved,RB18606,Approved,Accepted,,1
+A41900,31-12-2024,B46106,Approved,H79406,Approved,FB81351,Approved,RB19819,Rejected,Rejected,Dents,1
+A93769,14-09-2024,B56450,Rejected,H23802,Approved,FB92253,Approved,RB30414,Approved,Rejected,Misalignment,4
+A36578,28-12-2024,B27615,Approved,H99236,Approved,FB61926,Approved,RB22741,Rejected,Rejected,Structural Failure,4
+A53605,21-12-2024,B50616,Rejected,H96071,Approved,FB77232,Rejected,RB74515,Approved,Rejected,Dents,1
+A70669,30-10-2024,B87542,Rejected,H52948,Rejected,FB13861,Approved,RB91400,Rejected,Rejected,Scratches,3
+A31652,15-09-2024,B10170,Approved,H25643,Approved,FB59085,Rejected,RB58336,Approved,Rejected,Dust Particles in Paint,1
+A41185,09-11-2024,B35957,Approved,H68539,Approved,FB15790,Rejected,RB35525,Approved,Rejected,Structural Failure,4
+A29665,02-11-2024,B66881,Approved,H59831,Approved,FB11210,Rejected,RB12163,Approved,Rejected,Misalignment,1
+A91409,05-09-2024,B38346,Approved,H61225,Approved,FB32927,Approved,RB23206,Approved,Accepted,,1
+A43912,28-09-2024,B42303,Approved,H72748,Rejected,FB65683,Rejected,RB18309,Approved,Rejected,Structural Failure,4
+A45334,10-08-2024,B80160,Approved,H32444,Rejected,FB24554,Rejected,RB52727,Approved,Rejected,Incorrect Paint Job,1
+A79863,01-07-2024,B41470,Approved,H62655,Approved,FB75288,Approved,RB86917,Approved,Accepted,,4
+A86690,22-10-2024,B99377,Approved,H15054,Rejected,FB18806,Approved,RB74047,Rejected,Rejected,Scratches,5
+A13834,13-12-2024,B98243,Approved,H64630,Approved,FB68589,Approved,RB69672,Approved,Accepted,,5
+A82313,15-09-2024,B35556,Approved,H98202,Approved,FB71083,Approved,RB46948,Rejected,Rejected,Incorrect Paint Job,2
+A38009,08-08-2024,B48827,Rejected,H82721,Approved,FB69103,Rejected,RB70982,Approved,Rejected,Structural Failure,1
+A58894,14-11-2024,B22925,Rejected,H11662,Approved,FB41162,Approved,RB47367,Approved,Rejected,Structural Failure,2
+A44243,13-09-2024,B84982,Rejected,H96981,Approved,FB38336,Approved,RB58455,Approved,Rejected,Weld Marks,5
+A89072,17-07-2024,B75135,Rejected,H56015,Approved,FB19654,Rejected,RB93757,Approved,Rejected,Incorrect Paint Job,5
+A48069,29-10-2024,B12485,Rejected,H47840,Approved,FB45182,Approved,RB15409,Rejected,Rejected,Dents,5
+A71033,14-08-2024,B75553,Rejected,H50562,Approved,FB94104,Approved,RB46373,Approved,Rejected,Weld Marks,3
+A89622,02-07-2024,B95268,Rejected,H94899,Approved,FB33200,Approved,RB42086,Rejected,Rejected,Structural Failure,5
+A36107,13-09-2024,B94845,Approved,H22027,Approved,FB87865,Approved,RB61667,Approved,Accepted,,2
+A34398,17-09-2024,B20233,Approved,H78599,Rejected,FB21793,Approved,RB31789,Approved,Rejected,Misalignment,5
+A28244,08-10-2024,B42768,Approved,H94883,Rejected,FB55217,Approved,RB59749,Approved,Rejected,Dents,4
