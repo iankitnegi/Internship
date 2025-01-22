@@ -123,4 +123,8 @@ Feel free to ask your seniors for any questions!
 > 
 > Best regards,    
 > Hem  
-> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.    
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+>
+### **Solution:**   
+File name: Power BI_Soln
+Tool: Power BI
