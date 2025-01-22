@@ -126,5 +126,34 @@ Feel free to ask your seniors for any questions!
 > Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 >
 ### **Solution:**   
-File name: Power BI_Soln
-Tool: Power BI
+File name: powerbi_Soln  
+Tool: Power BI  
+
+> ### E-Mail #2:  
+> **CREATE A MOCK-UP FOR THE CLIENT**  
+Hi Ankit Negi,  
+> I hope you are doing well. I am impressed with your work and I hope you learned about Parameters and Calendar Visual in Power BI.
+>
+> Our client, Nova Mart, a major retail chain in southern India, has provided us with data from their Diwali 2024 and Sankranti 2024 promotional campaigns. The sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
+>
+> The previous person working on this has worked on half the task including Data Transformation, creating DAX measures, and a rough dashboard.
+>
+> Your first task is to create a mock-up of the dashboard based on the Ad-hoc requests and submit it for a review to the client.
+>
+> You can use the following tool to create a mock-up - https://www.mokkup.ai/
+>
+> The following files can be found in "Download Files" section -
+> - Dataset
+> - Recommended Insights
+> - Meta Data
+> - Incomplete Power BI Dashboard
+> 
+> Please complete this task in the next 36 hours.
+>
+> Good luck!
+>
+> Best regards,    
+> Hem  
+> Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+>
+> 
